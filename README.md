@@ -5,4 +5,4 @@
 
 
 ## Easy Questions
-[2965. Find Missing and Repeated Values]()
+[2965. Find Missing and Repeated Values](https://raw.githubusercontent.com/vegetariancoder/competitive-programming/main/leetcode/easy-question/2965.%20Find%20Missing%20and%20Repeated%20Values.py)
