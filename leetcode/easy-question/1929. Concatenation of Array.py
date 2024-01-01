@@ -8,4 +8,4 @@ def getConcatenation(self, nums):
 
 
 name = "1929. Concatenation of Array"
-print(name.replace(" ","%"))
+print(name.replace(" ","%20"))
