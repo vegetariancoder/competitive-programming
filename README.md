@@ -2,8 +2,8 @@
 
 - [Question Navigation](#question-navigation)
     - [LeetCode Easy Questions](#leetcode-easy-questions)
-
     - [SQL Questions](#sql-questions)
+    - [Pyspark Questions](#pyspark-questions)
 
 
 ## LeetCode Easy Questions <a name="leetcode-easy-questions"></a>
@@ -16,6 +16,15 @@
 </details>
 
 ## SQL Questions <a name="sql-questions"></a>
+
+<details>
+<summary>Ankit Bansal's Questions</summary>
+
+- [PWC Source Target](https://github.com/vegetariancoder/competitive-programming/blob/main/ankit's_question/PWC_Source_Target.sql)
+</details>
+
+
+## Pyspark Questions <a name="pyspark-questions"></a>
 
 <details>
 <summary>Ankit Bansal's Questions</summary>
