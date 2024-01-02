@@ -5,6 +5,3 @@ def buildArray(self, nums):
     """
     self.nums = nums
     return [self.nums[self.nums[x]] for x in range(len(self.nums))]
-
-
-print()
