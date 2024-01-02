@@ -13,6 +13,8 @@
 
 [1929. Concatenation of Array](https://github.com/vegetariancoder/competitive-programming/blob/main/leetcode/easy-question/1929.%20Concatenation%20of%20Array.py)
 
+[1920. Build Array from Permutation](https://github.com/vegetariancoder/competitive-programming/blob/main/leetcode/easy-question/1920.%20Build%20Array%20from%20Permutation.py)
+
 ## SQL Questions <a name="sql-questions"></a>
 
 ### Ankit Bansal's Questions <a name="ab"></a>
