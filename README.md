@@ -1,11 +1,11 @@
-# Competitive-Programming
+# 👊 Competitive-Programming 👊
 
 - [Question Navigation](#question-navigation)
-    - [LeetCode Easy Questions](#leetcode-easy-questions)
-    - [LeetCode Medium Questions](#leetcode-medium-questions)
-    - [LeetCode Hard Questions](#leetcode-hard-questions)
-    - [SQL Questions](#sql-questions)
-    - [Pyspark Questions](#pyspark-questions)
+    - [LeetCode Easy Questions](#leetcode-easy-questions) 🔥
+    - [LeetCode Medium Questions](#leetcode-medium-questions) 🔥🔥
+    - [LeetCode Hard Questions](#leetcode-hard-questions) 🔥🔥🔥
+    - [SQL Questions](#sql-questions)🔥
+    - [Pyspark Questions](#pyspark-questions)🔥
 
 
 ## LeetCode Easy Questions <a name="leetcode-easy-questions"></a>
