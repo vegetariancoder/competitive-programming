@@ -2,6 +2,8 @@
 
 - [Question Navigation](#question-navigation)
     - [LeetCode Easy Questions](#leetcode-easy-questions)
+    - [LeetCode Medium Questions](#leetcode-medium-questions)
+    - [LeetCode Hard Questions](#leetcode-hard-questions)
     - [SQL Questions](#sql-questions)
     - [Pyspark Questions](#pyspark-questions)
 
@@ -15,6 +17,18 @@
 - [1920. Build Array from Permutation](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1920.%20Build%20Array%20from%20Permutation.py)
 - [1512. Number of Good Pairs](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1512.%20Number%20of%20Good%20Pairs.py)
 - [2011. Final Value of Variable After Performing Operations](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.py)
+</details>
+
+## LeetCode Medium Questions <a name="leetcode-medium-questions"></a>
+<details>
+<summary>LeetCode Medium Questions - Lists</summary>
+
+</details>
+
+## LeetCode Hard Questions <a name="leetcode-hard-questions"></a>
+<details>
+<summary>LeetCode Hard Questions - Lists</summary>
+
 </details>
 
 ## SQL Questions <a name="sql-questions"></a>
