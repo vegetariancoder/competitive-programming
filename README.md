@@ -14,6 +14,7 @@
 - [1929. Concatenation of Array](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1929.%20Concatenation%20of%20Array.py)
 - [1920. Build Array from Permutation](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1920.%20Build%20Array%20from%20Permutation.py)
 - [1512. Number of Good Pairs](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1512.%20Number%20of%20Good%20Pairs.py)
+- [2011. Final Value of Variable After Performing Operations](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.py)
 </details>
 
 ## SQL Questions <a name="sql-questions"></a>
@@ -22,6 +23,7 @@
 <summary>Ankit Bansal's Questions</summary>
 
 - [PWC Source Target](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/PWC_Source_Target.sql)
+- [PWC_Increasing_Revenue](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/PWC_Increasing_Revenue.sql)
 </details>
 
 
