@@ -17,6 +17,7 @@
 - [1920. Build Array from Permutation](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1920.%20Build%20Array%20from%20Permutation.py)
 - [1512. Number of Good Pairs](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1512.%20Number%20of%20Good%20Pairs.py)
 - [2011. Final Value of Variable After Performing Operations](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.py)
+- [2942. Find Words Containing Character](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/22942.%20Find%20Words%20Containing%20Character.py)
 </details>
 
 ## LeetCode Medium Questions <a name="leetcode-medium-questions"></a>
@@ -38,6 +39,7 @@
 
 - [PWC Source Target](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/PWC_Source_Target.sql)
 - [PWC Increasing Revenue](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/PWC_Increasing_Revenue.sql)
+- [FAANG PunchIn PunchOut](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/FAANG_PunchIn_PunchOut.sql)
 </details>
 
 
