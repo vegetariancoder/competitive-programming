@@ -23,7 +23,7 @@
 <summary>Ankit Bansal's Questions</summary>
 
 - [PWC Source Target](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/PWC_Source_Target.sql)
-- [PWC_Increasing_Revenue](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/PWC_Increasing_Revenue.sql)
+- [PWC Increasing Revenue](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/PWC_Increasing_Revenue.sql)
 </details>
 
 
