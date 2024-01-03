@@ -8,7 +8,7 @@
     - [Pyspark Questions](#pyspark-questions)🔥
 
 
-## LeetCode Easy Questions <a name="leetcode-easy-questions"></a>
+## LeetCode Easy Questions <a name="leetcode-easy-questions"></a> 🚴
 <details>
 <summary>LeetCode Easy Questions - Lists</summary>
 
@@ -20,19 +20,19 @@
 - [2942. Find Words Containing Character](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2942.%20Find%20Words%20Containing%20Character.py)
 </details>
 
-## LeetCode Medium Questions <a name="leetcode-medium-questions"></a>
+## LeetCode Medium Questions <a name="leetcode-medium-questions"></a> 🚴
 <details>
 <summary>LeetCode Medium Questions - Lists</summary>
 
 </details>
 
-## LeetCode Hard Questions <a name="leetcode-hard-questions"></a>
+## LeetCode Hard Questions <a name="leetcode-hard-questions"></a> 🚴
 <details>
 <summary>LeetCode Hard Questions - Lists</summary>
 
 </details>
 
-## SQL Questions <a name="sql-questions"></a>
+## SQL Questions <a name="sql-questions"></a> 🏇
 
 <details>
 <summary>Ankit Bansal's Questions</summary>
@@ -43,7 +43,7 @@
 </details>
 
 
-## Pyspark Questions <a name="pyspark-questions"></a>
+## Pyspark Questions <a name="pyspark-questions"></a> 🏊
 
 <details>
 <summary>Ankit Bansal's Questions</summary>
