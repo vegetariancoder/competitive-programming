@@ -18,6 +18,7 @@
 - [1512. Number of Good Pairs](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1512.%20Number%20of%20Good%20Pairs.py)
 - [2011. Final Value of Variable After Performing Operations](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.py)
 - [2942. Find Words Containing Character](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2942.%20Find%20Words%20Containing%20Character.py)
+- [1470. Shuffle the Array](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1470.%20Shuffle%20the%20Array.py)
 </details>
 
 <details>
@@ -46,6 +47,7 @@
 - [PWC Source Target](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/PWC_Source_Target.sql)
 - [PWC Increasing Revenue](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/PWC_Increasing_Revenue.sql)
 - [FAANG PunchIn PunchOut](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/FAANG_PunchIn_PunchOut.sql)
+- [TIGER Source Destination](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/TIGER_Source_Destination.sql)
 </details>
 
 
@@ -56,4 +58,5 @@
 
 - [PWC Source Target](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/PWC_Source_Target.py)
 - [FAANG PunchIn PunchOut](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/FAANG_PunchIn_PunchOut.py)
+- [TIGER Source Destination](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/TIGER_Source_Destination.py)
 </details>
