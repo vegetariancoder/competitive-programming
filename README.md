@@ -20,6 +20,12 @@
 - [2942. Find Words Containing Character](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2942.%20Find%20Words%20Containing%20Character.py)
 </details>
 
+<details>
+<summary>LeetCode Easy Questions - Strings</summary>
+
+- [1108. Defanging an IP Address](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1108.%20Defanging%20an%20IP%20Address.py)
+</details>
+
 ## LeetCode Medium Questions <a name="leetcode-medium-questions"></a> 🚴
 <details>
 <summary>LeetCode Medium Questions - Lists</summary>
