@@ -19,12 +19,15 @@
 - [2011. Final Value of Variable After Performing Operations](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.py)
 - [2942. Find Words Containing Character](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2942.%20Find%20Words%20Containing%20Character.py)
 - [1470. Shuffle the Array](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1470.%20Shuffle%20the%20Array.py)
+- [1672. Richest Customer Wealth](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1672.%20Richest%20Customer%20Wealth.py)
+- [2798. Number of Employees Who Met the Target](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2798.%20Number%20of%20Employees%20Who%20Met%20the%20Target.py)
 </details>
 
 <details>
 <summary>LeetCode Easy Questions - Strings</summary>
 
 - [1108. Defanging an IP Address](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1108.%20Defanging%20an%20IP%20Address.py)
+- [771. Jewels and Stones](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/771.%20Jewels%20and%20Stones.py)
 </details>
 
 ## LeetCode Medium Questions <a name="leetcode-medium-questions"></a> 🚴
