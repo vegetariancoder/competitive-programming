@@ -51,6 +51,7 @@
 - [PWC Increasing Revenue](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/PWC_Increasing_Revenue.sql)
 - [FAANG PunchIn PunchOut](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/FAANG_PunchIn_PunchOut.sql)
 - [TIGER Source Destination](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/TIGER_Source_Destination.sql)
+- [TIGER NewCustomer Month](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/TIGER_NewCustomer_Month.sql)
 </details>
 
 
@@ -62,4 +63,5 @@
 - [PWC Source Target](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/PWC_Source_Target.py)
 - [FAANG PunchIn PunchOut](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/FAANG_PunchIn_PunchOut.py)
 - [TIGER Source Destination](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/TIGER_Source_Destination.py)
+- [TIGER NewCustomer Month](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/TIGER_NewCustomer_Month.py)
 </details>
