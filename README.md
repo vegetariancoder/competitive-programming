@@ -21,6 +21,8 @@
 - [1470. Shuffle the Array](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1470.%20Shuffle%20the%20Array.py)
 - [1672. Richest Customer Wealth](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1672.%20Richest%20Customer%20Wealth.py)
 - [2798. Number of Employees Who Met the Target](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2798.%20Number%20of%20Employees%20Who%20Met%20the%20Target.py)
+- [1431. Kids With the Greatest Number of Candies](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.py)
+- [1365. How Many Numbers Are Smaller Than the Current Number](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.py)
 </details>
 
 <details>
