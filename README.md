@@ -30,6 +30,7 @@
 
 - [1108. Defanging an IP Address](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1108.%20Defanging%20an%20IP%20Address.py)
 - [771. Jewels and Stones](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/771.%20Jewels%20and%20Stones.py)
+- [1678. Goal Parser Interpretation](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1678.%20Goal%20Parser%20Interpretation.py)
 </details>
 
 ## LeetCode Medium Questions <a name="leetcode-medium-questions"></a> 🚴
