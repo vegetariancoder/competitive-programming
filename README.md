@@ -36,6 +36,12 @@
 - [1165. Single-Row Keyboard](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1165.%20Single-Row%20Keyboard.py)
 </details>
 
+<details>
+<summary>LeetCode Easy Questions - System Design</summary>
+
+- [1603. Design Parking System](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1603.%20Design%20Parking%20System.py)
+</details>
+
 ## LeetCode Medium Questions <a name="leetcode-medium-questions"></a> 🚴
 <details>
 <summary>LeetCode Medium Questions - Lists</summary>
