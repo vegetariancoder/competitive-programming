@@ -23,6 +23,8 @@
 - [2798. Number of Employees Who Met the Target](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2798.%20Number%20of%20Employees%20Who%20Met%20the%20Target.py)
 - [1431. Kids With the Greatest Number of Candies](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.py)
 - [1365. How Many Numbers Are Smaller Than the Current Number](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.py)
+- [1480. Running Sum of 1d Array](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1480.%20Running%20Sum%20of%201d%20Array.py)
+- [2824. Count Pairs Whose Sum is Less than Target](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2824.%20Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target.py)
 </details>
 
 <details>
@@ -31,6 +33,7 @@
 - [1108. Defanging an IP Address](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1108.%20Defanging%20an%20IP%20Address.py)
 - [771. Jewels and Stones](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/771.%20Jewels%20and%20Stones.py)
 - [1678. Goal Parser Interpretation](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1678.%20Goal%20Parser%20Interpretation.py)
+- [1165. Single-Row Keyboard](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1165.%20Single-Row%20Keyboard.py)
 </details>
 
 ## LeetCode Medium Questions <a name="leetcode-medium-questions"></a> 🚴
