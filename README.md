@@ -25,6 +25,9 @@
 - [1365. How Many Numbers Are Smaller Than the Current Number](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.py)
 - [1480. Running Sum of 1d Array](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1480.%20Running%20Sum%20of%201d%20Array.py)
 - [2824. Count Pairs Whose Sum is Less than Target](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2824.%20Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target.py)
+- [2114. Maximum Number of Words Found in Sentences](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.py)
+- [2859. Sum of Values at Indices With K Set Bits](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2859.%20Sum%20of%20Values%20at%20Indices%20With%20K%20Set%20Bits.py)
+- [2574. Left and Right Sum Differences](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2574.%20Left%20and%20Right%20Sum%20Differences.py)
 </details>
 
 <details>
@@ -65,6 +68,7 @@
 - [TIGER Source Destination](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/TIGER_Source_Destination.sql)
 - [TIGER NewCustomer Month](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/TIGER_NewCustomer_Month.sql)
 - [DATAANALYST Child Parent](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/DATAANALYST_Child_Parent.sql)
+- [FRESHWORKS_Price_Monthly](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/FRESHWORKS_Price_Monthly.sql)
 </details>
 
 
