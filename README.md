@@ -28,6 +28,8 @@
 - [2114. Maximum Number of Words Found in Sentences](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.py)
 - [2859. Sum of Values at Indices With K Set Bits](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2859.%20Sum%20of%20Values%20at%20Indices%20With%20K%20Set%20Bits.py)
 - [2574. Left and Right Sum Differences](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2574.%20Left%20and%20Right%20Sum%20Differences.py)
+- [1389. Create Target Array in the Given Order](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order.py)
+- [2974. Minimum Number Game](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2974.%20Minimum%20Number%20Game.py)
 </details>
 
 <details>
@@ -68,7 +70,9 @@
 - [TIGER Source Destination](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/TIGER_Source_Destination.sql)
 - [TIGER NewCustomer Month](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/TIGER_NewCustomer_Month.sql)
 - [DATAANALYST Child Parent](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/DATAANALYST_Child_Parent.sql)
-- [FRESHWORKS_Price_Monthly](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/FRESHWORKS_Price_Monthly.sql)
+- [FRESHWORKS Price Monthly](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/FRESHWORKS_Price_Monthly.sql)
+- [AMAZON Average Salary](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/AMAZON_Average_Salary.py)
+- [NAMASTESQL Returns Orders](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/NAMASTESQL_Returns_Orders.sql)
 </details>
 
 
