@@ -30,6 +30,7 @@
 - [2574. Left and Right Sum Differences](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2574.%20Left%20and%20Right%20Sum%20Differences.py)
 - [1389. Create Target Array in the Given Order](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order.py)
 - [2974. Minimum Number Game](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2974.%20Minimum%20Number%20Game.py)
+- [1313. Decompress Run-Length Encoded List](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1313.%20Decompress%20Run-Length%20Encoded%20List.py)
 </details>
 
 <details>
@@ -39,6 +40,7 @@
 - [771. Jewels and Stones](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/771.%20Jewels%20and%20Stones.py)
 - [1678. Goal Parser Interpretation](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1678.%20Goal%20Parser%20Interpretation.py)
 - [1165. Single-Row Keyboard](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1165.%20Single-Row%20Keyboard.py)
+- [3019. Number of Changing Keys](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3019.%20Number%20of%20Changing%20Keys.py)
 </details>
 
 <details>
@@ -86,4 +88,5 @@
 - [TIGER Source Destination](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/TIGER_Source_Destination.py)
 - [TIGER NewCustomer Month](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/TIGER_NewCustomer_Month.py)
 - [DATAANALYST Child Parent](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/DATAANALYST_Child_Parent.py)
+- [NAMASTESQL Returns Orders](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/NAMASTESQL_Returns_Orders.py)
 </details>
