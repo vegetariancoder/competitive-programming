@@ -30,6 +30,8 @@
 - [2974. Minimum Number Game](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2974.%20Minimum%20Number%20Game.py)
 - [1313. Decompress Run-Length Encoded List](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1313.%20Decompress%20Run-Length%20Encoded%20List.py)
 - [1720. Decode XORed Array](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1720.%20Decode%20XORed%20Array.py)
+- [3033. Modify the Matrix](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3033.%20Modify%20the%20Matrix.py)
+- [3069. Distribute Elements Into Two Arrays I](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3069.%20Distribute%20Elements%20Into%20Two%20Arrays%20I.py)
 </details>
 
 <details>
@@ -77,6 +79,12 @@
 - [FRESHWORKS Price Monthly](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/FRESHWORKS_Price_Monthly.sql)
 - [AMAZON Average Salary](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/AMAZON_Average_Salary.py)
 - [NAMASTESQL Returns Orders](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/NAMASTESQL_Returns_Orders.sql)
+</details>
+
+<details>
+<summary>LeetCode Hard Questions</summary>
+
+- [2991. Top Three Wineries](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode/hard-questions/2991._Top_Three_Wineries.sql)
 </details>
 
 
