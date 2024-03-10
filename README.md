@@ -84,7 +84,7 @@
 <details>
 <summary>LeetCode Hard Questions</summary>
 
-- [2991. Top Three Wineries](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode/hard-questions/2991._Top_Three_Wineries.sql)
+- [2991. Top Three Wineries](https://github.com/vegetariancoder/competitive-programming/blob/main/leetcode/hard-questions/2991._Top_Three_Wineries.sql)
 </details>
 
 
