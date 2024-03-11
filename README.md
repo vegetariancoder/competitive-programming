@@ -51,6 +51,7 @@
 <summary>LeetCode Easy Questions - System Design</summary>
 
 - [1603. Design Parking System](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1603.%20Design%20Parking%20System.py)
+- [705. Design HashSet](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/705.%20Design%20HashSet.py)
 </details>
 
 ## LeetCode Medium Questions <a name="leetcode-medium-questions"></a> 🚴
