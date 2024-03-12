@@ -45,6 +45,16 @@
 - [2942. Find Words Containing Character](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2942.%20Find%20Words%20Containing%20Character.py)
 - [2114. Maximum Number of Words Found in Sentences](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.py)
 - [1662. Check If Two String Arrays are Equivalent](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.py)
+- [2325. Decode the Message](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2325.%20Decode%20the%20Message.py)
+</details>
+
+<details>
+<summary>LeetCode Easy Questions - Hash Table</summary>
+
+- [1512. Number of Good Pairs](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1512.%20Number%20of%20Good%20Pairs.py)
+- [771. Jewels and Stones](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/771.%20Jewels%20and%20Stones.py)
+- [1365. How Many Numbers Are Smaller Than the Current Number](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.py)
+- [2325. Decode the Message](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2325.%20Decode%20the%20Message.py)
 </details>
 
 <details>
