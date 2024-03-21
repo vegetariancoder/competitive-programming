@@ -93,6 +93,12 @@
 </details>
 
 <details>
+<summary>Taufiq Questions</summary>
+
+- [Median age country](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/Taufiq's_question/median_age_country.sql)
+</details>
+
+<details>
 <summary>LeetCode Hard Questions</summary>
 
 - [2991. Top Three Wineries](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/hard-questions/2991._Top_Three_Wineries.sql)
@@ -110,4 +116,10 @@
 - [TIGER NewCustomer Month](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/TIGER_NewCustomer_Month.py)
 - [DATAANALYST Child Parent](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/DATAANALYST_Child_Parent.py)
 - [NAMASTESQL Returns Orders](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/NAMASTESQL_Returns_Orders.py)
+</details>
+
+<details>
+<summary>Taufiq Questions</summary>
+
+- [Median age country](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/median_age_country.ipynb)
 </details>
