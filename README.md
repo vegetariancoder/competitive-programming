@@ -95,7 +95,10 @@
 <details>
 <summary>Taufiq Questions</summary>
 
-- [Median age country](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/Taufiq's_question/median_age_country.sql)
+- [Day-8_job_skills](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/Taufiq's_question/Day-8_job_skills.sql)
+- [Day-13_emp_manager](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/Taufiq's_question/Day-13_emp_manager.sql)
+- [Day-20_median_age_countries](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/Taufiq's_question/Day-20_median_age_countries.sql)
+- [Day-29_on_off](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/Taufiq's_question/Day-29_on_off.sql)
 </details>
 
 <details>
@@ -121,5 +124,8 @@
 <details>
 <summary>Taufiq Questions</summary>
 
-- [Median age country](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/median_age_country.ipynb)
+- [Day-8_job_skills](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/Day-8_job_skills.ipynb)
+- [Day-13_emp_manager](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/Day-13_emp_manager.ipynb)
+- [Day-20_median_age_countries](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/Day-20_median_age_countries.ipynb)
+- [Day-29_on_off](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/Day-29_on_off.ipynb)
 </details>
