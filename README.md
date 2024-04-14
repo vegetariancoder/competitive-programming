@@ -32,6 +32,7 @@
 - [1720. Decode XORed Array](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1720.%20Decode%20XORed%20Array.py)
 - [3033. Modify the Matrix](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3033.%20Modify%20the%20Matrix.py)
 - [3069. Distribute Elements Into Two Arrays I](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3069.%20Distribute%20Elements%20Into%20Two%20Arrays%20I.py)
+- [3074. Apple Redistribution into Boxes](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3074.%20Apple%20Redistribution%20into%20Boxes.py)
 </details>
 
 <details>
@@ -46,6 +47,8 @@
 - [2114. Maximum Number of Words Found in Sentences](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.py)
 - [1662. Check If Two String Arrays are Equivalent](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.py)
 - [2325. Decode the Message](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2325.%20Decode%20the%20Message.py)
+- [3083. Existence of a Substring in a String and Its Reverse](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3083.%20Existence%20of%20a%20Substring%20in%20a%20String%20and%20Its%20Reverse.py)
+- [2937. Make Three Strings Equal](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2937.%20Make%20Three%20Strings%20Equal.py)
 </details>
 
 <details>
@@ -55,6 +58,12 @@
 - [771. Jewels and Stones](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/771.%20Jewels%20and%20Stones.py)
 - [1365. How Many Numbers Are Smaller Than the Current Number](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.py)
 - [2325. Decode the Message](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2325.%20Decode%20the%20Message.py)
+</details>
+
+<details>
+<summary>LeetCode Easy Questions - Maths</summary>
+
+- [3099. Harshad Number](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3099.%20Harshad%20Number.py)
 </details>
 
 <details>
