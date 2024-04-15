@@ -77,6 +77,8 @@
 <details>
 <summary>LeetCode Medium Questions - Lists</summary>
 
+[2433. Find The Original Array of Prefix Xor](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/2433.%20Find%20The%20Original%20Array%20of%20Prefix%20Xor.py)
+
 </details>
 
 ## LeetCode Hard Questions <a name="leetcode-hard-questions"></a> 🚴
