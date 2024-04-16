@@ -77,7 +77,8 @@
 <details>
 <summary>LeetCode Medium Questions - Lists</summary>
 
-[2433. Find The Original Array of Prefix Xor](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/2433.%20Find%20The%20Original%20Array%20of%20Prefix%20Xor.py)
+- [2433. Find The Original Array of Prefix Xor](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/2433.%20Find%20The%20Original%20Array%20of%20Prefix%20Xor.py)
+- [2545. Sort the Students by Their Kth Score](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/2545.%20Sort%20the%20Students%20by%20Their%20Kth%20Score.py)
 
 </details>
 
@@ -107,6 +108,7 @@
 <summary>Taufiq Questions</summary>
 
 - [Day-1_RedPairs](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/Taufiq's_question/Day-1_RedPairs.sql)
+- [Day-5_null_names](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/Taufiq's_question/Day-5_null_names.sql)
 - [Day-8_job_skills](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/Taufiq's_question/Day-8_job_skills.sql)
 - [Day-13_emp_manager](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/Taufiq's_question/Day-13_emp_manager.sql)
 - [Day-20_median_age_countries](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/Taufiq's_question/Day-20_median_age_countries.sql)
@@ -137,6 +139,7 @@
 <summary>Taufiq Questions</summary>
 
 - [Day-1_RedPairs](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/Day-1_RedPairs.ipynb)
+- [Day-5_null_names](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/Day-5_null_names.ipynb)
 - [Day-8_job_skills](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/Day-8_job_skills.ipynb)
 - [Day-13_emp_manager](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/Day-13_emp_manager.ipynb)
 - [Day-20_median_age_countries](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/Day-20_median_age_countries.ipynb)
