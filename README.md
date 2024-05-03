@@ -49,6 +49,9 @@
 - [2325. Decode the Message](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2325.%20Decode%20the%20Message.py)
 - [3083. Existence of a Substring in a String and Its Reverse](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3083.%20Existence%20of%20a%20Substring%20in%20a%20String%20and%20Its%20Reverse.py)
 - [2937. Make Three Strings Equal](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2937.%20Make%20Three%20Strings%20Equal.py)
+- [3120. Count the Number of Special Characters I](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3120.%20Count%20the%20Number%20of%20Special%20Characters%20I.py)
+- [3110. Score of a String](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3110.%20Score%20of%20a%20String.py)
+- [3042. Count Prefix and Suffix Pairs I](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3042.%20Count%20Prefix%20and%20Suffix%20Pairs%20I.py)
 </details>
 
 <details>
@@ -58,6 +61,7 @@
 - [771. Jewels and Stones](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/771.%20Jewels%20and%20Stones.py)
 - [1365. How Many Numbers Are Smaller Than the Current Number](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.py)
 - [2325. Decode the Message](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2325.%20Decode%20the%20Message.py)
+- [3120. Count the Number of Special Characters I](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3120.%20Count%20the%20Number%20of%20Special%20Characters%20I.py)
 </details>
 
 <details>
