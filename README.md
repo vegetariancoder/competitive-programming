@@ -106,6 +106,8 @@
 - [FRESHWORKS Price Monthly](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/FRESHWORKS_Price_Monthly.sql)
 - [AMAZON Average Salary](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/AMAZON_Average_Salary.py)
 - [NAMASTESQL Returns Orders](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/NAMASTESQL_Returns_Orders.sql)
+- [IBM_Family](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/IBM_Family.sql)
+- [HONEYWELL_Stars](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/HONEYWELL_Stars.sql)
 </details>
 
 <details>
@@ -117,6 +119,12 @@
 - [Day-13_emp_manager](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/Taufiq's_question/Day-13_emp_manager.sql)
 - [Day-20_median_age_countries](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/Taufiq's_question/Day-20_median_age_countries.sql)
 - [Day-29_on_off](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/Taufiq's_question/Day-29_on_off.sql)
+</details>
+
+<details>
+<summary>LeetCode Medium Questions</summary>
+
+- [3124. Find Longest Calls](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3124.FindLongestCalls.sql)
 </details>
 
 <details>
@@ -137,6 +145,7 @@
 - [TIGER NewCustomer Month](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/TIGER_NewCustomer_Month.py)
 - [DATAANALYST Child Parent](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/DATAANALYST_Child_Parent.py)
 - [NAMASTESQL Returns Orders](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/NAMASTESQL_Returns_Orders.py)
+- [HONEYWELL_Stars](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/HONEYWELL_Stars.ipynb)
 </details>
 
 <details>
@@ -148,4 +157,11 @@
 - [Day-13_emp_manager](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/Day-13_emp_manager.ipynb)
 - [Day-20_median_age_countries](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/Day-20_median_age_countries.ipynb)
 - [Day-29_on_off](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/Day-29_on_off.ipynb)
+</details>
+
+
+<details>
+<summary>Leetcode Questions</summary>
+
+- [3124. FindLongestCalls](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/3124.FindLongestCalls.ipynb)
 </details>
