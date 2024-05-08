@@ -33,6 +33,9 @@
 - [3033. Modify the Matrix](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3033.%20Modify%20the%20Matrix.py)
 - [3069. Distribute Elements Into Two Arrays I](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3069.%20Distribute%20Elements%20Into%20Two%20Arrays%20I.py)
 - [3074. Apple Redistribution into Boxes](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3074.%20Apple%20Redistribution%20into%20Boxes.py)
+- [3024. Type of Triangle](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3024.%20Type%20of%20Triangle.py)
+- [3028. Ant on the Boundary](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3028.%20Ant%20on%20the%20Boundary.py)
+- [3005. Count Elements With Maximum Frequency](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3005.%20Count%20Elements%20With%20Maximum%20Frequency.py)
 </details>
 
 <details>
@@ -75,6 +78,7 @@
 
 - [1603. Design Parking System](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1603.%20Design%20Parking%20System.py)
 - [705. Design HashSet](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/705.%20Design%20HashSet.py)
+- [303. Range Sum Query - Immutable](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/303.%20Range%20Sum%20Query%20-%20Immutable.py)
 </details>
 
 ## LeetCode Medium Questions <a name="leetcode-medium-questions"></a> 🚴
@@ -83,6 +87,13 @@
 
 - [2433. Find The Original Array of Prefix Xor](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/2433.%20Find%20The%20Original%20Array%20of%20Prefix%20Xor.py)
 - [2545. Sort the Students by Their Kth Score](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/2545.%20Sort%20the%20Students%20by%20Their%20Kth%20Score.py)
+
+</details>
+
+<details>
+<summary>LeetCode Medium Questions - System Design</summary>
+
+- [307. Range Sum Query - Mutable](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/307.%20Range%20Sum%20Query%20-%20Mutable.py)
 
 </details>
 
