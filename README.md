@@ -55,6 +55,7 @@
 - [3120. Count the Number of Special Characters I](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3120.%20Count%20the%20Number%20of%20Special%20Characters%20I.py)
 - [3110. Score of a String](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3110.%20Score%20of%20a%20String.py)
 - [3042. Count Prefix and Suffix Pairs I](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3042.%20Count%20Prefix%20and%20Suffix%20Pairs%20I.py)
+- [2423. Remove Letter To Equalize Frequency](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2423.%20Remove%20Letter%20To%20Equalize%20Frequency.py)
 </details>
 
 <details>
@@ -87,6 +88,10 @@
 
 - [2433. Find The Original Array of Prefix Xor](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/2433.%20Find%20The%20Original%20Array%20of%20Prefix%20Xor.py)
 - [2545. Sort the Students by Their Kth Score](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/2545.%20Sort%20the%20Students%20by%20Their%20Kth%20Score.py)
+- [1409. Queries on a Permutation With Key](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/1409.%20Queries%20on%20a%20Permutation%20With%20Key.py)
+- [2336. Smallest Number in Infinite Set](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/2336.%20Smallest%20Number%20in%20Infinite%20Set.py)
+- [2375. Construct Smallest Number From DI String](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/2375.%20Construct%20Smallest%20Number%20From%20DI%20String.py)
+- [2785. Sort Vowels in a String](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/2785.%20Sort%20Vowels%20in%20a%20String.py)
 
 </details>
 
@@ -94,6 +99,7 @@
 <summary>LeetCode Medium Questions - System Design</summary>
 
 - [307. Range Sum Query - Mutable](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/307.%20Range%20Sum%20Query%20-%20Mutable.py)
+- [2336. Smallest Number in Infinite Set](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/2336.%20Smallest%20Number%20in%20Infinite%20Set.py)
 
 </details>
 
@@ -119,6 +125,8 @@
 - [NAMASTESQL Returns Orders](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/NAMASTESQL_Returns_Orders.sql)
 - [IBM_Family](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/IBM_Family.sql)
 - [HONEYWELL_Stars](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/HONEYWELL_Stars.sql)
+- [SWIGGY_Cost](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/SWIGGY_Cost.sql)
+- [ITC_destination](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/ITC_destination.sql)
 </details>
 
 <details>
