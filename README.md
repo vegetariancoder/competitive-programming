@@ -100,6 +100,7 @@
 
 - [307. Range Sum Query - Mutable](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/307.%20Range%20Sum%20Query%20-%20Mutable.py)
 - [2336. Smallest Number in Infinite Set](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/2336.%20Smallest%20Number%20in%20Infinite%20Set.py)
+- [1357. Apply Discount Every n Orders](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/1357.%20Apply%20Discount%20Every%20n%20Orders.py)
 
 </details>
 
