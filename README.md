@@ -36,6 +36,7 @@
 - [3024. Type of Triangle](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3024.%20Type%20of%20Triangle.py)
 - [3028. Ant on the Boundary](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3028.%20Ant%20on%20the%20Boundary.py)
 - [3005. Count Elements With Maximum Frequency](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3005.%20Count%20Elements%20With%20Maximum%20Frequency.py)
+- [2644. Find the Maximum Divisibility Score](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2644.%20Find%20the%20Maximum%20Divisibility%20Score.py)
 </details>
 
 <details>
@@ -139,13 +140,17 @@
 - [Day-13_emp_manager](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/Taufiq's_question/Day-13_emp_manager.sql)
 - [Day-20_median_age_countries](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/Taufiq's_question/Day-20_median_age_countries.sql)
 - [Day-29_on_off](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/Taufiq's_question/Day-29_on_off.sql)
+- [capegemini_question](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/Taufiq's_question/capegemini_question.sql)
 </details>
 
 <details>
 <summary>LeetCode Medium Questions</summary>
 
 - [3124. Find Longest Calls](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3124.FindLongestCalls.sql)
+- [2989. Class Performance](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2989.ClassPerformance.sql)
+- [1445.Apples&Oranges](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1445.Apples&Oranges.sql)
 </details>
+
 
 <details>
 <summary>LeetCode Hard Questions</summary>
@@ -184,4 +189,6 @@
 <summary>Leetcode Questions</summary>
 
 - [3124. FindLongestCalls](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/3124.FindLongestCalls.ipynb)
+- [2989.ClassPerformance](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/2989.ClassPerformance.ipynb)
+- [1445.Apples&Oranges](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/1445.Apples&Oranges.ipynb)
 </details>
