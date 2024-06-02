@@ -37,6 +37,8 @@
 - [3028. Ant on the Boundary](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3028.%20Ant%20on%20the%20Boundary.py)
 - [3005. Count Elements With Maximum Frequency](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3005.%20Count%20Elements%20With%20Maximum%20Frequency.py)
 - [2644. Find the Maximum Divisibility Score](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2644.%20Find%20the%20Maximum%20Divisibility%20Score.py)
+- [3136.ValidWord](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3136.ValidWord.py)
+- [3162.FindtheNumberofGoodPairsI](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3162.FindtheNumberofGoodPairsI)
 </details>
 
 <details>
@@ -73,6 +75,7 @@
 <summary>LeetCode Easy Questions - Maths</summary>
 
 - [3099. Harshad Number](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3099.%20Harshad%20Number.py)
+- [3079.FindtheSumofEncryptedIntegers](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3079.FindtheSumofEncryptedIntegers.py)
 </details>
 
 <details>
@@ -93,6 +96,7 @@
 - [2336. Smallest Number in Infinite Set](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/2336.%20Smallest%20Number%20in%20Infinite%20Set.py)
 - [2375. Construct Smallest Number From DI String](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/2375.%20Construct%20Smallest%20Number%20From%20DI%20String.py)
 - [2785. Sort Vowels in a String](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/2785.%20Sort%20Vowels%20in%20a%20String.py)
+- [3153.SumofDigitDifferencesofAllPairs](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/3153.SumofDigitDifferencesofAllPairs.py)
 
 </details>
 
@@ -149,6 +153,8 @@
 - [3124. Find Longest Calls](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3124.FindLongestCalls.sql)
 - [2989. Class Performance](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2989.ClassPerformance.sql)
 - [1445.Apples&Oranges](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1445.Apples&Oranges.sql)
+- [1308.RunningTotalforDifferentGenders](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1308.RunningTotalforDifferentGenders.sql)
+- [2084.DropType1OrdersforCustomersWithType0Orders](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2084.DropType1OrdersforCustomersWithType0Orders.sql)
 </details>
 
 
@@ -191,4 +197,6 @@
 - [3124. FindLongestCalls](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/3124.FindLongestCalls.ipynb)
 - [2989.ClassPerformance](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/2989.ClassPerformance.ipynb)
 - [1445.Apples&Oranges](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/1445.Apples&Oranges.ipynb)
+- [1308.RunningTotalforDifferentGenders](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/1308.RunningTotalforDifferentGenders.ipynb)
+- [2084.DropType1OrdersforCustomersWithType0Orders](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/2084.DropType1OrdersforCustomersWithType0Orders.ipynb)
 </details>
