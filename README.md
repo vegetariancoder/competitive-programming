@@ -59,6 +59,8 @@
 - [3110. Score of a String](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3110.%20Score%20of%20a%20String.py)
 - [3042. Count Prefix and Suffix Pairs I](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3042.%20Count%20Prefix%20and%20Suffix%20Pairs%20I.py)
 - [2423. Remove Letter To Equalize Frequency](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2423.%20Remove%20Letter%20To%20Equalize%20Frequency.py)
+- [3158. Find the XOR of Numbers Which Appear Twice](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3158.%20Find%20the%20XOR%20of%20Numbers%20Which%20Appear%20Twice.py)
+- [3168. Minimum Number of Chairs in a Waiting Room](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3168.%20Minimum%20Number%20of%20Chairs%20in%20a%20Waiting%20Room.py)
 </details>
 
 <details>
@@ -133,6 +135,7 @@
 - [HONEYWELL_Stars](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/HONEYWELL_Stars.sql)
 - [SWIGGY_Cost](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/SWIGGY_Cost.sql)
 - [ITC_destination](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/ITC_destination.sql)
+- [ACCENTURE_email](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/ACCENTURE_email.sql)
 </details>
 
 <details>
@@ -155,6 +158,7 @@
 - [1445.Apples&Oranges](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1445.Apples&Oranges.sql)
 - [1308.RunningTotalforDifferentGenders](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1308.RunningTotalforDifferentGenders.sql)
 - [2084.DropType1OrdersforCustomersWithType0Orders](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2084.DropType1OrdersforCustomersWithType0Orders.sql)
+- [1393.CapitalGainLoss](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1393.CapitalGainLoss.sql)
 </details>
 
 
@@ -177,6 +181,7 @@
 - [DATAANALYST Child Parent](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/DATAANALYST_Child_Parent.py)
 - [NAMASTESQL Returns Orders](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/NAMASTESQL_Returns_Orders.py)
 - [HONEYWELL_Stars](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/HONEYWELL_Stars.ipynb)
+- [ACCENTURE_email](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/ACCENTURE_email.ipynb)
 </details>
 
 <details>
@@ -199,4 +204,5 @@
 - [1445.Apples&Oranges](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/1445.Apples&Oranges.ipynb)
 - [1308.RunningTotalforDifferentGenders](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/1308.RunningTotalforDifferentGenders.ipynb)
 - [2084.DropType1OrdersforCustomersWithType0Orders](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/2084.DropType1OrdersforCustomersWithType0Orders.ipynb)
+- [1393.CapitalGainLoss](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/1393.CapitalGainLoss.ipynb)
 </details>
