@@ -61,6 +61,8 @@
 - [2423. Remove Letter To Equalize Frequency](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2423.%20Remove%20Letter%20To%20Equalize%20Frequency.py)
 - [3158. Find the XOR of Numbers Which Appear Twice](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3158.%20Find%20the%20XOR%20of%20Numbers%20Which%20Appear%20Twice.py)
 - [3168. Minimum Number of Chairs in a Waiting Room](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3168.%20Minimum%20Number%20of%20Chairs%20in%20a%20Waiting%20Room.py)
+- [3174. Clear Digits](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3174.%20Clear%20Digits.py)
+- [3146. Permutation Difference between Two Strings](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3146.%20Permutation%20Difference%20between%20Two%20Strings.py)
 </details>
 
 <details>
@@ -159,6 +161,7 @@
 - [1308.RunningTotalforDifferentGenders](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1308.RunningTotalforDifferentGenders.sql)
 - [2084.DropType1OrdersforCustomersWithType0Orders](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2084.DropType1OrdersforCustomersWithType0Orders.sql)
 - [1393.CapitalGainLoss](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1393.CapitalGainLoss.sql)
+- [3182.FindTopScoringStudents](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3182.FindTopScoringStudents.sql)
 </details>
 
 
@@ -205,4 +208,5 @@
 - [1308.RunningTotalforDifferentGenders](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/1308.RunningTotalforDifferentGenders.ipynb)
 - [2084.DropType1OrdersforCustomersWithType0Orders](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/2084.DropType1OrdersforCustomersWithType0Orders.ipynb)
 - [1393.CapitalGainLoss](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/1393.CapitalGainLoss.ipynb)
+- [3182.FindTopScoringStudents](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/3182.FindTopScoringStudents.ipynb)
 </details>
