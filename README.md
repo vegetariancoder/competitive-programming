@@ -38,7 +38,8 @@
 - [3005. Count Elements With Maximum Frequency](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3005.%20Count%20Elements%20With%20Maximum%20Frequency.py)
 - [2644. Find the Maximum Divisibility Score](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2644.%20Find%20the%20Maximum%20Divisibility%20Score.py)
 - [3136.ValidWord](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3136.ValidWord.py)
-- [3162.FindtheNumberofGoodPairsI](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3162.FindtheNumberofGoodPairsI)
+- [3162.FindtheNumberofGoodPairsI](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3162.FindtheNumberofGoodPairsI.py)
+- [3184.CountPairsThatFormaCompleteDayI](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3184.CountPairsThatFormaCompleteDayI.py)
 </details>
 
 <details>
@@ -162,6 +163,7 @@
 - [2084.DropType1OrdersforCustomersWithType0Orders](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2084.DropType1OrdersforCustomersWithType0Orders.sql)
 - [1393.CapitalGainLoss](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1393.CapitalGainLoss.sql)
 - [3182.FindTopScoringStudents](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3182.FindTopScoringStudents.sql)
+- [3166.CalculateParkingFeesandDuration](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3166.CalculateParkingFeesandDuration.sql)
 </details>
 
 
@@ -209,4 +211,5 @@
 - [2084.DropType1OrdersforCustomersWithType0Orders](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/2084.DropType1OrdersforCustomersWithType0Orders.ipynb)
 - [1393.CapitalGainLoss](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/1393.CapitalGainLoss.ipynb)
 - [3182.FindTopScoringStudents](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/3182.FindTopScoringStudents.ipynb)
+- [3166.CalculateParkingFeesandDuration](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/3166.CalculateParkingFeesandDuration.ipynb)
 </details>
