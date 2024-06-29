@@ -81,6 +81,7 @@
 
 - [3099. Harshad Number](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3099.%20Harshad%20Number.py)
 - [3079.FindtheSumofEncryptedIntegers](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3079.FindtheSumofEncryptedIntegers.py)
+- [3190.FindMinimumOperationstoMakeAllElementsDivisiblebyThree](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3190.FindMinimumOperationstoMakeAllElementsDivisiblebyThree.py)
 </details>
 
 <details>
@@ -164,6 +165,8 @@
 - [1393.CapitalGainLoss](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1393.CapitalGainLoss.sql)
 - [3182.FindTopScoringStudents](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3182.FindTopScoringStudents.sql)
 - [3166.CalculateParkingFeesandDuration](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3166.CalculateParkingFeesandDuration.sql)
+- [1270-AllPeopleReportToTheGivenManager](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1270-AllPeopleReportToTheGivenManager.sql)
+- [1783-GrandSlamTitle](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1783-GrandSlamTitle.sql)
 </details>
 
 
@@ -212,4 +215,7 @@
 - [1393.CapitalGainLoss](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/1393.CapitalGainLoss.ipynb)
 - [3182.FindTopScoringStudents](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/3182.FindTopScoringStudents.ipynb)
 - [3166.CalculateParkingFeesandDuration](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/3166.CalculateParkingFeesandDuration.ipynb)
+- [1270-AllPeopleReportToTheGivenManager](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/1270-AllPeopleReportToTheGivenManager.ipynb)
+- [1783-GrandSlamTitle](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/1783-GrandSlamTitle.ipynb)
+- [3057.EmployeesProjectAllocation](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/3057.EmployeesProjectAllocation.ipynb)
 </details>
