@@ -40,6 +40,8 @@
 - [3136.ValidWord](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3136.ValidWord.py)
 - [3162.FindtheNumberofGoodPairsI](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3162.FindtheNumberofGoodPairsI.py)
 - [3184.CountPairsThatFormaCompleteDayI](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3184.CountPairsThatFormaCompleteDayI.py)
+- [1550.ThreeConsecutiveOdds](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1550.ThreeConsecutiveOdds.py)
+- [3194.MinimumAverageofSmallestandLargestElements](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3194.MinimumAverageofSmallestandLargestElements.py)
 </details>
 
 <details>
@@ -167,6 +169,7 @@
 - [3166.CalculateParkingFeesandDuration](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3166.CalculateParkingFeesandDuration.sql)
 - [1270-AllPeopleReportToTheGivenManager](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1270-AllPeopleReportToTheGivenManager.sql)
 - [1783-GrandSlamTitle](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1783-GrandSlamTitle.sql)
+- [2372.CalculatetheInfluenceofEachSalesperson](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2372.CalculatetheInfluenceofEachSalesperson.sql)
 </details>
 
 
@@ -218,4 +221,5 @@
 - [1270-AllPeopleReportToTheGivenManager](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/1270-AllPeopleReportToTheGivenManager.ipynb)
 - [1783-GrandSlamTitle](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/1783-GrandSlamTitle.ipynb)
 - [3057.EmployeesProjectAllocation](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/3057.EmployeesProjectAllocation.ipynb)
+- [2372.CalculatetheInfluenceofEachSalesperson](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/2372.CalculatetheInfluenceofEachSalesperson.ipynb)
 </details>
