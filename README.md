@@ -142,6 +142,7 @@
 - [SWIGGY_Cost](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/SWIGGY_Cost.sql)
 - [ITC_destination](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/ITC_destination.sql)
 - [ACCENTURE_email](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/ACCENTURE_email.sql)
+- [TREDENCE_Movie](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/TREDENCE_Movie.sql)
 </details>
 
 <details>
@@ -193,6 +194,7 @@
 - [NAMASTESQL Returns Orders](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/NAMASTESQL_Returns_Orders.py)
 - [HONEYWELL_Stars](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/HONEYWELL_Stars.ipynb)
 - [ACCENTURE_email](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/ACCENTURE_email.ipynb)
+- [TREDENCE_Movie](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/TREDENCE_Movie.ipynb)
 </details>
 
 <details>
