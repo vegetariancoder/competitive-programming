@@ -8,11 +8,13 @@ def spark_session():
 
 
 def read_csv_file(path):
-    return spark_session().read.csv(path, header=True)
+    spark = spark_session()
+    return spark.read.csv(path, header=True)
 
 
 def read_json_file(path):
-    return spark_session().read.json(path)
+    spark = spark_session()
+    return spark.read.json(path)
 
 
 def set_logger():
