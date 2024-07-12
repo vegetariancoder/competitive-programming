@@ -42,6 +42,8 @@
 - [3184.CountPairsThatFormaCompleteDayI](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3184.CountPairsThatFormaCompleteDayI.py)
 - [1550.ThreeConsecutiveOdds](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1550.ThreeConsecutiveOdds.py)
 - [3194.MinimumAverageofSmallestandLargestElements](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3194.MinimumAverageofSmallestandLargestElements.py)
+- [2956.FindCommonElementsBetweenTwoArrays](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2956.FindCommonElementsBetweenTwoArrays.py)
+- [1134.ArmstrongNumber](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1134.ArmstrongNumber.py)
 </details>
 
 <details>
@@ -105,6 +107,7 @@
 - [2375. Construct Smallest Number From DI String](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/2375.%20Construct%20Smallest%20Number%20From%20DI%20String.py)
 - [2785. Sort Vowels in a String](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/2785.%20Sort%20Vowels%20in%20a%20String.py)
 - [3153.SumofDigitDifferencesofAllPairs](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/3153.SumofDigitDifferencesofAllPairs.py)
+- [1015.SmallestIntegerDivisiblebyK](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/1015.SmallestIntegerDivisiblebyK.py)
 
 </details>
 
@@ -171,6 +174,7 @@
 - [1270-AllPeopleReportToTheGivenManager](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1270-AllPeopleReportToTheGivenManager.sql)
 - [1783-GrandSlamTitle](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1783-GrandSlamTitle.sql)
 - [2372.CalculatetheInfluenceofEachSalesperson](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2372.CalculatetheInfluenceofEachSalesperson.sql)
+- [1285.FindtheStartandEndNumberofContinuousRanges](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1285.FindtheStartandEndNumberofContinuousRanges.sql)
 </details>
 
 
@@ -224,4 +228,5 @@
 - [1783-GrandSlamTitle](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/1783-GrandSlamTitle.ipynb)
 - [3057.EmployeesProjectAllocation](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/3057.EmployeesProjectAllocation.ipynb)
 - [2372.CalculatetheInfluenceofEachSalesperson](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/2372.CalculatetheInfluenceofEachSalesperson.ipynb)
+- [1285.FindtheStartandEndNumberofContinuousRanges](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/1285.FindtheStartandEndNumberofContinuousRanges.ipynb)
 </details>
