@@ -44,6 +44,7 @@
 - [3194.MinimumAverageofSmallestandLargestElements](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3194.MinimumAverageofSmallestandLargestElements.py)
 - [2956.FindCommonElementsBetweenTwoArrays](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2956.FindCommonElementsBetweenTwoArrays.py)
 - [1134.ArmstrongNumber](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1134.ArmstrongNumber.py)
+- [3178.FindtheChildWhoHastheBallAfterKSeconds](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3178.FindtheChildWhoHastheBallAfterKSeconds.py)
 </details>
 
 <details>
@@ -117,6 +118,7 @@
 - [307. Range Sum Query - Mutable](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/307.%20Range%20Sum%20Query%20-%20Mutable.py)
 - [2336. Smallest Number in Infinite Set](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/2336.%20Smallest%20Number%20in%20Infinite%20Set.py)
 - [1357. Apply Discount Every n Orders](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/1357.%20Apply%20Discount%20Every%20n%20Orders.py)
+- [1476.SubrectangleQueries](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/1476.SubrectangleQueries.py)
 
 </details>
 
