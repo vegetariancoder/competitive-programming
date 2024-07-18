@@ -1,6 +1,8 @@
 ### 🚲 Shimano Case Analysis 🚲
 
 
+![Alt text](https://github.com/vegetariancoder/competitive-programming/blob/main/Projects/SHIMANO_CASE_STUDY/shimano_erd.png?raw=true "ERD")
+
 - ✏️ Find the customer who has placed the highest total value of orders and calculate that value. 
 - ✏️ List all products that have never been ordered along with their details.
 - ✏️ Find the store with the highest average order value.
