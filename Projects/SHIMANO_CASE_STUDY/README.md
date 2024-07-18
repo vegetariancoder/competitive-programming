@@ -15,7 +15,7 @@
 - ✏️ List all customers and categorize them based on their total spending. If the total spending is more than 10000, label them as "High Spenders", if it's between 5000 and 10000, label them as "Medium Spenders", otherwise label them as "Low Spenders".
 - ✏️ Retrieve the list of stores and classify them based on the total number of orders they have handled. If the number of orders is greater than 100, label them as "High Volume Stores", between 50 and 100 as "Medium Volume Stores", otherwise label them as "Low Volume Stores".
 - ✏️ Find the staffs and categorize them based on the number of customers they have handled. If the number of customers is more than 50, label them as "Top Performers", between 20 and 50 as "Average Performers", otherwise label them as "Low Performers".
-- Find the total number of orders placed in each month and year, and determine the month and year with the highest number of orders.
-- Determine the average list price of products for each brand and find the brand with the highest average list price.
+- ✏️ Find the total number of orders placed in each month and year, and determine the month and year with the highest number of orders.
+- ✏️ Determine the average list price of products for each brand and find the brand with the highest average list price.
 - ✏️ Identify customers who have placed orders in all the stores and list their names.
 - ✏️ Find the average discount given per product and identify the product with the highest average discount.
