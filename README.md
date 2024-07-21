@@ -69,6 +69,9 @@
 - [3168. Minimum Number of Chairs in a Waiting Room](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3168.%20Minimum%20Number%20of%20Chairs%20in%20a%20Waiting%20Room.py)
 - [3174. Clear Digits](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3174.%20Clear%20Digits.py)
 - [3146. Permutation Difference between Two Strings](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3146.%20Permutation%20Difference%20between%20Two%20Strings.py)
+- [1085.SumofDigitsintheMinimumNumber](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1085.SumofDigitsintheMinimumNumber.py)
+- [1385.FindtheDistanceValueBetweenTwoArrays](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1385.FindtheDistanceValueBetweenTwoArrays.py)
+- [1848.MinimumDistancetotheTargetElement](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1848.MinimumDistancetotheTargetElement.py)
 </details>
 
 <details>
@@ -119,6 +122,7 @@
 - [2336. Smallest Number in Infinite Set](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/2336.%20Smallest%20Number%20in%20Infinite%20Set.py)
 - [1357. Apply Discount Every n Orders](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/1357.%20Apply%20Discount%20Every%20n%20Orders.py)
 - [1476.SubrectangleQueries](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/1476.SubrectangleQueries.py)
+- [1244.DesignALeaderboard](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/1244.DesignALeaderboard.py)
 
 </details>
 
