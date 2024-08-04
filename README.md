@@ -45,6 +45,7 @@
 - [2956.FindCommonElementsBetweenTwoArrays](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2956.FindCommonElementsBetweenTwoArrays.py)
 - [1134.ArmstrongNumber](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1134.ArmstrongNumber.py)
 - [3178.FindtheChildWhoHastheBallAfterKSeconds](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3178.FindtheChildWhoHastheBallAfterKSeconds.py)
+- [3232.FindifDigitGameCanBeWon](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3232.FindifDigitGameCanBeWon.py)
 </details>
 
 <details>
@@ -181,6 +182,7 @@
 - [1783-GrandSlamTitle](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1783-GrandSlamTitle.sql)
 - [2372.CalculatetheInfluenceofEachSalesperson](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2372.CalculatetheInfluenceofEachSalesperson.sql)
 - [1285.FindtheStartandEndNumberofContinuousRanges](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1285.FindtheStartandEndNumberofContinuousRanges.sql)
+- [2066AccountBalance](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2066AccountBalance.sql)
 </details>
 
 
@@ -235,4 +237,5 @@
 - [3057.EmployeesProjectAllocation](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/3057.EmployeesProjectAllocation.ipynb)
 - [2372.CalculatetheInfluenceofEachSalesperson](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/2372.CalculatetheInfluenceofEachSalesperson.ipynb)
 - [1285.FindtheStartandEndNumberofContinuousRanges](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/1285.FindtheStartandEndNumberofContinuousRanges.ipynb)
+- [2066AccountBalance](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/2066AccountBalance.ipynb)
 </details>
