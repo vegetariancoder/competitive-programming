@@ -46,6 +46,7 @@
 - [1134.ArmstrongNumber](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1134.ArmstrongNumber.py)
 - [3178.FindtheChildWhoHastheBallAfterKSeconds](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3178.FindtheChildWhoHastheBallAfterKSeconds.py)
 - [3232.FindifDigitGameCanBeWon](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3232.FindifDigitGameCanBeWon.py)
+- [1046.LastStoneWeight](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1046.LastStoneWeight.py)
 </details>
 
 <details>
@@ -73,6 +74,7 @@
 - [1085.SumofDigitsintheMinimumNumber](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1085.SumofDigitsintheMinimumNumber.py)
 - [1385.FindtheDistanceValueBetweenTwoArrays](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1385.FindtheDistanceValueBetweenTwoArrays.py)
 - [1848.MinimumDistancetotheTargetElement](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1848.MinimumDistancetotheTargetElement.py)
+- [3210.FindtheEncryptedString](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3210.FindtheEncryptedString.py)
 </details>
 
 <details>
@@ -183,6 +185,7 @@
 - [2372.CalculatetheInfluenceofEachSalesperson](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2372.CalculatetheInfluenceofEachSalesperson.sql)
 - [1285.FindtheStartandEndNumberofContinuousRanges](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1285.FindtheStartandEndNumberofContinuousRanges.sql)
 - [2066AccountBalance](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2066AccountBalance.sql)
+- [1831-MaximumTransactionEachDay](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1831-MaximumTransactionEachDay.sql)
 </details>
 
 
@@ -238,4 +241,5 @@
 - [2372.CalculatetheInfluenceofEachSalesperson](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/2372.CalculatetheInfluenceofEachSalesperson.ipynb)
 - [1285.FindtheStartandEndNumberofContinuousRanges](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/1285.FindtheStartandEndNumberofContinuousRanges.ipynb)
 - [2066AccountBalance](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/2066AccountBalance.ipynb)
+- [1831-MaximumTransactionEachDay](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/1831-MaximumTransactionEachDay.ipynb)
 </details>
