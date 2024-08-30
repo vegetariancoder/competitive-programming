@@ -186,6 +186,8 @@
 - [1285.FindtheStartandEndNumberofContinuousRanges](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1285.FindtheStartandEndNumberofContinuousRanges.sql)
 - [2066AccountBalance](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2066AccountBalance.sql)
 - [1831-MaximumTransactionEachDay](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1831-MaximumTransactionEachDay.sql)
+- [3252.PremierLeagueTableRankingII](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3252.PremierLeagueTableRankingII.sql)
+- [3262.FindOverlappingShifts](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3262.FindOverlappingShifts.sql)
 </details>
 
 
@@ -242,4 +244,5 @@
 - [1285.FindtheStartandEndNumberofContinuousRanges](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/1285.FindtheStartandEndNumberofContinuousRanges.ipynb)
 - [2066AccountBalance](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/2066AccountBalance.ipynb)
 - [1831-MaximumTransactionEachDay](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/1831-MaximumTransactionEachDay.ipynb)
+- [3262.FindOverlappingShifts](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/3262.FindOverlappingShifts.ipynb)
 </details>
