@@ -75,6 +75,8 @@
 - [1385.FindtheDistanceValueBetweenTwoArrays](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1385.FindtheDistanceValueBetweenTwoArrays.py)
 - [1848.MinimumDistancetotheTargetElement](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1848.MinimumDistancetotheTargetElement.py)
 - [3210.FindtheEncryptedString](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3210.FindtheEncryptedString.py)
+- [697.DegreeofanArray](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/697.DegreeofanArray.py)
+- [495.TeemoAttacking](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/495.TeemoAttacking.py)
 </details>
 
 <details>
