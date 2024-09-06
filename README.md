@@ -47,6 +47,7 @@
 - [3178.FindtheChildWhoHastheBallAfterKSeconds](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3178.FindtheChildWhoHastheBallAfterKSeconds.py)
 - [3232.FindifDigitGameCanBeWon](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3232.FindifDigitGameCanBeWon.py)
 - [1046.LastStoneWeight](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1046.LastStoneWeight.py)
+- [2432.TheEmployeeThatWorkedontheLongestTask](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2432.TheEmployeeThatWorkedontheLongestTask.py)
 </details>
 
 <details>
@@ -190,6 +191,9 @@
 - [1831-MaximumTransactionEachDay](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1831-MaximumTransactionEachDay.sql)
 - [3252.PremierLeagueTableRankingII](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3252.PremierLeagueTableRankingII.sql)
 - [3262.FindOverlappingShifts](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3262.FindOverlappingShifts.sql)
+- [177.NthHighestSalary](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/177.NthHighestSalary.sql)
+- [176.SecondHighestSalary](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/176.SecondHighestSalary.sql)
+- [3278.FindCandidatesforDataScientistPositionII](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3278.FindCandidatesforDataScientistPositionII.sql)
 </details>
 
 
@@ -247,4 +251,7 @@
 - [2066AccountBalance](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/2066AccountBalance.ipynb)
 - [1831-MaximumTransactionEachDay](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/1831-MaximumTransactionEachDay.ipynb)
 - [3262.FindOverlappingShifts](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/3262.FindOverlappingShifts.ipynb)
+- [176.SecondHighestSalary](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/176.SecondHighestSalary.ipynb)
+- [177.NthHighestSalary](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/177.NthHighestSalary.ipynb)
+- [3278.FindCandidatesforDataScientistPositionII](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/3278.FindCandidatesforDataScientistPositionII.ipynb)
 </details>
