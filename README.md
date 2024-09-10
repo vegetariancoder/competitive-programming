@@ -48,6 +48,9 @@
 - [3232.FindifDigitGameCanBeWon](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3232.FindifDigitGameCanBeWon.py)
 - [1046.LastStoneWeight](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1046.LastStoneWeight.py)
 - [2432.TheEmployeeThatWorkedontheLongestTask](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2432.TheEmployeeThatWorkedontheLongestTask.py)
+- [1133.LargestUniqueNumber](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1133.LargestUniqueNumber.py)
+- [1056.ConfusingNumber](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1056.ConfusingNumber.py)
+- [3270.FindtheKeyoftheNumbers](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3270.FindtheKeyoftheNumbers.py)
 </details>
 
 <details>
