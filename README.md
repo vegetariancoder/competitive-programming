@@ -92,6 +92,8 @@
 - [1365. How Many Numbers Are Smaller Than the Current Number](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.py)
 - [2325. Decode the Message](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2325.%20Decode%20the%20Message.py)
 - [3120. Count the Number of Special Characters I](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3120.%20Count%20the%20Number%20of%20Special%20Characters%20I.py)
+- [3264.FinalArrayStateAfterKMultiplicationOperationsI](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3264.FinalArrayStateAfterKMultiplicationOperationsI.py)
+- [3289.TheTwoSneakyNumbersofDigitville](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3289.TheTwoSneakyNumbersofDigitville.py)
 </details>
 
 <details>
