@@ -51,6 +51,7 @@
 - [1133.LargestUniqueNumber](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1133.LargestUniqueNumber.py)
 - [1056.ConfusingNumber](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1056.ConfusingNumber.py)
 - [3270.FindtheKeyoftheNumbers](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3270.FindtheKeyoftheNumbers.py)
+- [3300.MinimumElementAfterReplacementWithDigitSum](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3300.MinimumElementAfterReplacementWithDigitSum.py)
 </details>
 
 <details>
@@ -142,6 +143,7 @@
 <details>
 <summary>LeetCode Hard Questions - Lists</summary>
 
+- [41.FirstMissingPositive](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/hard-question/41.FirstMissingPositive.py)
 </details>
 
 ## SQL Questions <a name="sql-questions"></a> 🏇
@@ -203,6 +205,7 @@
 - [177.NthHighestSalary](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/177.NthHighestSalary.sql)
 - [176.SecondHighestSalary](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/176.SecondHighestSalary.sql)
 - [3278.FindCandidatesforDataScientistPositionII](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3278.FindCandidatesforDataScientistPositionII.sql)
+- [3293.CalculateProductFinalPrice](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3293.CalculateProductFinalPrice.sql)
 </details>
 
 
@@ -266,4 +269,5 @@
 - [176.SecondHighestSalary](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/176.SecondHighestSalary.ipynb)
 - [177.NthHighestSalary](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/177.NthHighestSalary.ipynb)
 - [3278.FindCandidatesforDataScientistPositionII](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/3278.FindCandidatesforDataScientistPositionII.ipynb)
+- [3293.CalculateProductFinalPrice](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/3293.CalculateProductFinalPrice.ipynb)
 </details>
