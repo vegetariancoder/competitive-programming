@@ -103,6 +103,8 @@
 - [3099. Harshad Number](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3099.%20Harshad%20Number.py)
 - [3079.FindtheSumofEncryptedIntegers](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3079.FindtheSumofEncryptedIntegers.py)
 - [3190.FindMinimumOperationstoMakeAllElementsDivisiblebyThree](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3190.FindMinimumOperationstoMakeAllElementsDivisiblebyThree.py)
+- [2544.AlternatingDigitSum](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2544.AlternatingDigitSum.py)
+- [3032.CountNumbersWithUniqueDigitsII](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3032.CountNumbersWithUniqueDigitsII.py)
 </details>
 
 <details>
@@ -125,6 +127,7 @@
 - [2785. Sort Vowels in a String](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/2785.%20Sort%20Vowels%20in%20a%20String.py)
 - [3153.SumofDigitDifferencesofAllPairs](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/3153.SumofDigitDifferencesofAllPairs.py)
 - [1015.SmallestIntegerDivisiblebyK](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/1015.SmallestIntegerDivisiblebyK.py)
+- [400.NthDigit](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/400.NthDigit.py)
 
 </details>
 
