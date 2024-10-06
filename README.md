@@ -184,6 +184,7 @@
 - [capegemini_question](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/Taufiq's_question/capegemini_question.sql)
 - [amazon_present_absent](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/Taufiq's_question/amazon_present_absent.sql)
 - [velocity_indicator](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/Taufiq's_question/velocity_indicator.sql)
+- [Day-14_missing_number](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/Taufiq's_question/Day-14_missing_number.sql)
 </details>
 
 <details>
@@ -244,9 +245,10 @@
 - [Day-13_emp_manager](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/Day-13_emp_manager.ipynb)
 - [Day-20_median_age_countries](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/Day-20_median_age_countries.ipynb)
 - [Day-29_on_off](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/Day-29_on_off.ipynb)
-- [Day-19_FREEPizzas](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/Day-29_on_off.ipynb)
-- [amazon_present_absent](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/Day-29_on_off.ipynb)
-- [velocity_indicator](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/Day-29_on_off.ipynb)
+- [Day-19_FREEPizzas](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/Day-19_FREEPizzas.ipynb)
+- [amazon_present_absent](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/amazon_present_absent.ipynb)
+- [velocity_indicator](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/velocity_indicator.ipynb)
+- [Day-14_missing_number](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/Day-14_missing_number.ipynb)
 </details>
 
 
