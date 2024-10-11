@@ -185,6 +185,8 @@
 - [amazon_present_absent](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/Taufiq's_question/amazon_present_absent.sql)
 - [velocity_indicator](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/Taufiq's_question/velocity_indicator.sql)
 - [Day-14_missing_number](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/Taufiq's_question/Day-14_missing_number.sql)
+- [Day-16_Covid](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/Taufiq's_question/Day-16_Covid.sql)
+- [Day_17_login](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/Taufiq's_question/Day_17_login.sql)
 </details>
 
 <details>
@@ -217,6 +219,8 @@
 <summary>LeetCode Hard Questions</summary>
 
 - [2991. Top Three Wineries](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/hard-questions/2991._Top_Three_Wineries.sql)
+- [2720.PopularityPercentage](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/hard-questions/2720.PopularityPercentage.sql)
+- [3057.EmployeesProjectAllocation](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/hard-questions/3057.EmployeesProjectAllocation.sql)
 </details>
 
 
@@ -249,6 +253,8 @@
 - [amazon_present_absent](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/amazon_present_absent.ipynb)
 - [velocity_indicator](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/velocity_indicator.ipynb)
 - [Day-14_missing_number](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/Day-14_missing_number.ipynb)
+- [Day-16_Covid](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/Day-16_Covid.ipynb)
+- [Day_17_login](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/Day_17_login.ipynb)
 </details>
 
 
@@ -275,4 +281,5 @@
 - [177.NthHighestSalary](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/177.NthHighestSalary.ipynb)
 - [3278.FindCandidatesforDataScientistPositionII](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/3278.FindCandidatesforDataScientistPositionII.ipynb)
 - [3293.CalculateProductFinalPrice](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/3293.CalculateProductFinalPrice.ipynb)
+- [2720.PopularityPercentage](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/2720.PopularityPercentage.ipynb)
 </details>
