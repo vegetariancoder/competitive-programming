@@ -105,6 +105,7 @@
 - [3190.FindMinimumOperationstoMakeAllElementsDivisiblebyThree](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3190.FindMinimumOperationstoMakeAllElementsDivisiblebyThree.py)
 - [2544.AlternatingDigitSum](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2544.AlternatingDigitSum.py)
 - [3032.CountNumbersWithUniqueDigitsII](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3032.CountNumbersWithUniqueDigitsII.py)
+- [3038.MaximumNumberofOperationsWiththeSameScoreI](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3038.MaximumNumberofOperationsWiththeSameScoreI.py)
 </details>
 
 <details>
@@ -169,6 +170,7 @@
 - [ITC_destination](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/ITC_destination.sql)
 - [ACCENTURE_email](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/ACCENTURE_email.sql)
 - [TREDENCE_Movie](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/TREDENCE_Movie.sql)
+- [STARTUP](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/STARTUP.sql)
 </details>
 
 <details>
