@@ -83,6 +83,7 @@
 - [697.DegreeofanArray](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/697.DegreeofanArray.py)
 - [495.TeemoAttacking](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/495.TeemoAttacking.py)
 - [252.MeetingRooms](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/252.MeetingRooms.py)
+- [3274.CheckifTwoChessboardSquaresHavetheSameColor](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3274.CheckifTwoChessboardSquaresHavetheSameColor.py)
 </details>
 
 <details>
@@ -171,6 +172,7 @@
 - [ACCENTURE_email](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/ACCENTURE_email.sql)
 - [TREDENCE_Movie](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/TREDENCE_Movie.sql)
 - [STARTUP](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/STARTUP.sql)
+- [ZOMATO_Orders](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/ZOMATO_Orders.sql)
 </details>
 
 <details>
