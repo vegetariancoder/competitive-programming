@@ -52,6 +52,7 @@
 - [1056.ConfusingNumber](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1056.ConfusingNumber.py)
 - [3270.FindtheKeyoftheNumbers](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3270.FindtheKeyoftheNumbers.py)
 - [3300.MinimumElementAfterReplacementWithDigitSum](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3300.MinimumElementAfterReplacementWithDigitSum.py)
+- [1086.HighFive](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1086.HighFive.py)
 </details>
 
 <details>
