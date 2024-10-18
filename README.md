@@ -217,6 +217,7 @@
 - [176.SecondHighestSalary](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/176.SecondHighestSalary.sql)
 - [3278.FindCandidatesforDataScientistPositionII](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3278.FindCandidatesforDataScientistPositionII.sql)
 - [3293.CalculateProductFinalPrice](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3293.CalculateProductFinalPrice.sql)
+- [3308.FindTopPerformingDriver](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3308.FindTopPerformingDriver.sql)
 </details>
 
 
@@ -287,4 +288,5 @@
 - [3278.FindCandidatesforDataScientistPositionII](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/3278.FindCandidatesforDataScientistPositionII.ipynb)
 - [3293.CalculateProductFinalPrice](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/3293.CalculateProductFinalPrice.ipynb)
 - [2720.PopularityPercentage](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/2720.PopularityPercentage.ipynb)
+- [3308.FindTopPerformingDriver](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/3308.FindTopPerformingDriver.ipynb)
 </details>
