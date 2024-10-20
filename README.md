@@ -97,6 +97,7 @@
 - [3120. Count the Number of Special Characters I](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3120.%20Count%20the%20Number%20of%20Special%20Characters%20I.py)
 - [3264.FinalArrayStateAfterKMultiplicationOperationsI](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3264.FinalArrayStateAfterKMultiplicationOperationsI.py)
 - [3289.TheTwoSneakyNumbersofDigitville](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3289.TheTwoSneakyNumbersofDigitville.py)
+- [1640.CheckArrayFormationThroughConcatenation](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1640.CheckArrayFormationThroughConcatenation.py)
 </details>
 
 <details>
@@ -108,6 +109,7 @@
 - [2544.AlternatingDigitSum](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2544.AlternatingDigitSum.py)
 - [3032.CountNumbersWithUniqueDigitsII](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3032.CountNumbersWithUniqueDigitsII.py)
 - [3038.MaximumNumberofOperationsWiththeSameScoreI](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3038.MaximumNumberofOperationsWiththeSameScoreI.py)
+- [1118.NumberofDaysinaMonth](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1118.NumberofDaysinaMonth.py)
 </details>
 
 <details>
@@ -192,6 +194,7 @@
 - [Day-14_missing_number](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/Taufiq's_question/Day-14_missing_number.sql)
 - [Day-16_Covid](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/Taufiq's_question/Day-16_Covid.sql)
 - [Day_17_login](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/Taufiq's_question/Day_17_login.sql)
+- [Day-21_PopularPost](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/Taufiq's_question/Day-21_PopularPost.sql)
 </details>
 
 <details>
@@ -261,6 +264,7 @@
 - [Day-14_missing_number](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/Day-14_missing_number.ipynb)
 - [Day-16_Covid](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/Day-16_Covid.ipynb)
 - [Day_17_login](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/Day_17_login.ipynb)
+- [Day-21_PopularPost](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/Taufiq's_question/Day-21_PopularPost.ipynb)
 </details>
 
 
