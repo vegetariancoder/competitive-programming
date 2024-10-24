@@ -53,6 +53,7 @@
 - [3270.FindtheKeyoftheNumbers](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3270.FindtheKeyoftheNumbers.py)
 - [3300.MinimumElementAfterReplacementWithDigitSum](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3300.MinimumElementAfterReplacementWithDigitSum.py)
 - [1086.HighFive](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1086.HighFive.py)
+- [1925.CountSquareSumTriples](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1925.CountSquareSumTriples.py)
 </details>
 
 <details>
@@ -176,6 +177,8 @@
 - [TREDENCE_Movie](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/TREDENCE_Movie.sql)
 - [STARTUP](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/STARTUP.sql)
 - [ZOMATO_Orders](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/ZOMATO_Orders.sql)
+- [PROBO_Money](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/PROBO_Money.sql)
+- [ZEPTO_Multiplty](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/ZEPTO_Multiplty.sql)
 </details>
 
 <details>
@@ -221,6 +224,7 @@
 - [3278.FindCandidatesforDataScientistPositionII](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3278.FindCandidatesforDataScientistPositionII.sql)
 - [3293.CalculateProductFinalPrice](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3293.CalculateProductFinalPrice.sql)
 - [3308.FindTopPerformingDriver](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3308.FindTopPerformingDriver.sql)
+- [180.ConsecutiveNumbers](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/180.ConsecutiveNumbers.sql)
 </details>
 
 
@@ -247,6 +251,7 @@
 - [HONEYWELL_Stars](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/HONEYWELL_Stars.ipynb)
 - [ACCENTURE_email](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/ACCENTURE_email.ipynb)
 - [TREDENCE_Movie](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/TREDENCE_Movie.ipynb)
+- [PROBO_Money](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/PROBO_Money.ipynb)
 </details>
 
 <details>
@@ -293,4 +298,5 @@
 - [3293.CalculateProductFinalPrice](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/3293.CalculateProductFinalPrice.ipynb)
 - [2720.PopularityPercentage](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/2720.PopularityPercentage.ipynb)
 - [3308.FindTopPerformingDriver](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/3308.FindTopPerformingDriver.ipynb)
+- [180.ConsecutiveNumbers](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/180.ConsecutiveNumbers.ipynb)
 </details>
