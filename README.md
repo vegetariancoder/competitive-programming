@@ -54,6 +54,7 @@
 - [3300.MinimumElementAfterReplacementWithDigitSum](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3300.MinimumElementAfterReplacementWithDigitSum.py)
 - [1086.HighFive](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1086.HighFive.py)
 - [1925.CountSquareSumTriples](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1925.CountSquareSumTriples.py)
+- [1984.MinimumDifferenceBetweenHighestandLowestofKScores](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1984.MinimumDifferenceBetweenHighestandLowestofKScores.py)
 </details>
 
 <details>
@@ -86,6 +87,7 @@
 - [495.TeemoAttacking](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/495.TeemoAttacking.py)
 - [252.MeetingRooms](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/252.MeetingRooms.py)
 - [3274.CheckifTwoChessboardSquaresHavetheSameColor](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3274.CheckifTwoChessboardSquaresHavetheSameColor.py)
+- [3280.ConvertDatetoBinary](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3280.ConvertDatetoBinary.py)
 </details>
 
 <details>
@@ -225,6 +227,8 @@
 - [3293.CalculateProductFinalPrice](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3293.CalculateProductFinalPrice.sql)
 - [3308.FindTopPerformingDriver](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3308.FindTopPerformingDriver.sql)
 - [180.ConsecutiveNumbers](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/180.ConsecutiveNumbers.sql)
+- [3328.FindCitiesinEachStateII](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3328.FindCitiesinEachStateII.sql)
+- [3322.PremierLeagueTableRankingIII](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3322.PremierLeagueTableRankingIII.sql)
 </details>
 
 
@@ -299,4 +303,6 @@
 - [2720.PopularityPercentage](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/2720.PopularityPercentage.ipynb)
 - [3308.FindTopPerformingDriver](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/3308.FindTopPerformingDriver.ipynb)
 - [180.ConsecutiveNumbers](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/180.ConsecutiveNumbers.ipynb)
+- [3328.FindCitiesinEachStateII](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/3328.FindCitiesinEachStateII.ipynb)
+- [3322.PremierLeagueTableRankingIII](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/3322.PremierLeagueTableRankingIII.ipynb)
 </details>
