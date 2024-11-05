@@ -181,6 +181,7 @@
 - [ZOMATO_Orders](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/ZOMATO_Orders.sql)
 - [PROBO_Money](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/PROBO_Money.sql)
 - [ZEPTO_Multiplty](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/ZEPTO_Multiplty.sql)
+- [IPL_Question](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/IPL_Question.sql)
 </details>
 
 <details>
@@ -229,6 +230,7 @@
 - [180.ConsecutiveNumbers](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/180.ConsecutiveNumbers.sql)
 - [3328.FindCitiesinEachStateII](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3328.FindCitiesinEachStateII.sql)
 - [3322.PremierLeagueTableRankingIII](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3322.PremierLeagueTableRankingIII.sql)
+- [3220.OddandEvenTransactions](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3220.OddandEvenTransactions.sql)
 </details>
 
 
@@ -256,6 +258,7 @@
 - [ACCENTURE_email](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/ACCENTURE_email.ipynb)
 - [TREDENCE_Movie](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/TREDENCE_Movie.ipynb)
 - [PROBO_Money](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/PROBO_Money.ipynb)
+- [IPL_Question](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/ankit's_question/IPL_Question.ipynb)
 </details>
 
 <details>
@@ -305,4 +308,5 @@
 - [180.ConsecutiveNumbers](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/180.ConsecutiveNumbers.ipynb)
 - [3328.FindCitiesinEachStateII](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/3328.FindCitiesinEachStateII.ipynb)
 - [3322.PremierLeagueTableRankingIII](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/3322.PremierLeagueTableRankingIII.ipynb)
+- [3220.OddandEvenTransactions](https://github.com/vegetariancoder/competitive-programming/blob/main/pyspark/leetcode_question/3220.OddandEvenTransactions.ipynb)
 </details>
