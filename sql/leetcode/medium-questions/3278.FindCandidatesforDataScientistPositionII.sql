@@ -7,15 +7,15 @@ CREATE TABLE Candidates (
 );
 
 INSERT INTO Candidates (candidate_id, skill, proficiency) VALUES
-(101, 'Python', 5),
+(101, 'python', 5),
 (101, 'Tableau', 3),
 (101, 'PostgreSQL', 4),
 (101, 'TensorFlow', 2),
-(102, 'Python', 4),
+(102, 'python', 4),
 (102, 'Tableau', 5),
 (102, 'PostgreSQL', 4),
 (102, 'R', 4),
-(103, 'Python', 3),
+(103, 'python', 3),
 (103, 'Tableau', 5),
 (103, 'PostgreSQL', 5),
 (103, 'Spark', 4);
@@ -29,10 +29,10 @@ CREATE TABLE Projects (
 
 
 INSERT INTO Projects (project_id, skill, importance) VALUES
-(501, 'Python', 4),
+(501, 'python', 4),
 (501, 'Tableau', 3),
 (501, 'PostgreSQL', 5),
-(502, 'Python', 3),
+(502, 'python', 3),
 (502, 'Tableau', 4),
 (502, 'R', 2);
 
