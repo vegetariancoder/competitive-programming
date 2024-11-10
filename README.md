@@ -101,6 +101,7 @@
 - [3264.FinalArrayStateAfterKMultiplicationOperationsI](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3264.FinalArrayStateAfterKMultiplicationOperationsI.py)
 - [3289.TheTwoSneakyNumbersofDigitville](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3289.TheTwoSneakyNumbersofDigitville.py)
 - [1640.CheckArrayFormationThroughConcatenation](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1640.CheckArrayFormationThroughConcatenation.py)
+- [1331.RankTransformofanArray](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1331.RankTransformofanArray.py)
 </details>
 
 <details>
@@ -182,6 +183,7 @@
 - [PROBO_Money](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/PROBO_Money.sql)
 - [ZEPTO_Multiplty](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/ZEPTO_Multiplty.sql)
 - [IPL_Question](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/IPL_Question.sql)
+- [AMERICAN_EXP_recommendation](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/AMERICAN_EXP_recommendation.sql)AMERICAN_EXP_recommendation
 </details>
 
 <details>
