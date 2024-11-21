@@ -55,6 +55,10 @@
 - [1086.HighFive](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1086.HighFive.py)
 - [1925.CountSquareSumTriples](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1925.CountSquareSumTriples.py)
 - [1984.MinimumDifferenceBetweenHighestandLowestofKScores](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1984.MinimumDifferenceBetweenHighestandLowestofKScores.py)
+- [3151.SpecialArrayI](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3151.SpecialArrayI.py)
+- [1652.DefusetheBomb](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1652.DefusetheBomb.py)
+- [2485.FindthePivotInteger](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2485.FindthePivotInteger.py)
+- [3285.FindIndicesofStableMountains](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3285.FindIndicesofStableMountains.py)
 </details>
 
 <details>
@@ -114,6 +118,7 @@
 - [3032.CountNumbersWithUniqueDigitsII](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3032.CountNumbersWithUniqueDigitsII.py)
 - [3038.MaximumNumberofOperationsWiththeSameScoreI](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3038.MaximumNumberofOperationsWiththeSameScoreI.py)
 - [1118.NumberofDaysinaMonth](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1118.NumberofDaysinaMonth.py)
+- [118.Pascal'sTriangle](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/118.Pascal'sTriangle.py)
 </details>
 
 <details>
@@ -233,6 +238,8 @@
 - [3328.FindCitiesinEachStateII](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3328.FindCitiesinEachStateII.sql)
 - [3322.PremierLeagueTableRankingIII](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3322.PremierLeagueTableRankingIII.sql)
 - [3220.OddandEvenTransactions](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3220.OddandEvenTransactions.sql)
+- [3055.TopPercentileFraud](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3055.TopPercentileFraud.sql)
+- [3056.SnapsAnalysis](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3056.SnapsAnalysis.sql)
 </details>
 
 
@@ -242,6 +249,7 @@
 - [2991. Top Three Wineries](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/hard-questions/2991._Top_Three_Wineries.sql)
 - [2720.PopularityPercentage](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/hard-questions/2720.PopularityPercentage.sql)
 - [3057.EmployeesProjectAllocation](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/hard-questions/3057.EmployeesProjectAllocation.sql)
+- [3156.EmployeeTaskDurationandConcurrentTasks](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/hard-questions/3156.EmployeeTaskDurationandConcurrentTasks.sql)
 </details>
 
 
