@@ -59,6 +59,8 @@
 - [1652.DefusetheBomb](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1652.DefusetheBomb.py)
 - [2485.FindthePivotInteger](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2485.FindthePivotInteger.py)
 - [3285.FindIndicesofStableMountains](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3285.FindIndicesofStableMountains.py)
+- [3354.MakeArrayElementsEqualtoZero](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3354.MakeArrayElementsEqualtoZero.py)
+- [3379.TransformedArray](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3379.TransformedArray.py)
 </details>
 
 <details>
@@ -92,6 +94,7 @@
 - [252.MeetingRooms](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/252.MeetingRooms.py)
 - [3274.CheckifTwoChessboardSquaresHavetheSameColor](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3274.CheckifTwoChessboardSquaresHavetheSameColor.py)
 - [3280.ConvertDatetoBinary](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3280.ConvertDatetoBinary.py)
+- [1189.MaximumNumberofBalloons](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1189.MaximumNumberofBalloons.py)
 </details>
 
 <details>
@@ -142,6 +145,7 @@
 - [3153.SumofDigitDifferencesofAllPairs](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/3153.SumofDigitDifferencesofAllPairs.py)
 - [1015.SmallestIntegerDivisiblebyK](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/1015.SmallestIntegerDivisiblebyK.py)
 - [400.NthDigit](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/400.NthDigit.py)
+- [869.ReorderedPowerof2](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/869.ReorderedPowerof2.py)
 
 </details>
 
