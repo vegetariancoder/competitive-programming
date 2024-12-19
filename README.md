@@ -61,6 +61,8 @@
 - [3285.FindIndicesofStableMountains](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3285.FindIndicesofStableMountains.py)
 - [3354.MakeArrayElementsEqualtoZero](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3354.MakeArrayElementsEqualtoZero.py)
 - [3379.TransformedArray](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3379.TransformedArray.py)
+- [3345.SmallestDivisibleDigitProductI](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3345.SmallestDivisibleDigitProductI.py)
+- [3370.SmallestNumberWithAllSetBits](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3370.SmallestNumberWithAllSetBits.py)
 </details>
 
 <details>
@@ -192,7 +194,8 @@
 - [PROBO_Money](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/PROBO_Money.sql)
 - [ZEPTO_Multiplty](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/ZEPTO_Multiplty.sql)
 - [IPL_Question](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/IPL_Question.sql)
-- [AMERICAN_EXP_recommendation](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/AMERICAN_EXP_recommendation.sql)AMERICAN_EXP_recommendation
+- [AMERICAN_EXP_recommendation](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/AMERICAN_EXP_recommendation.sql)
+- [EPAM_PerfectScore](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/ankit's_question/EPAM_PerfectScore.sql)
 </details>
 
 <details>
@@ -244,6 +247,10 @@
 - [3220.OddandEvenTransactions](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3220.OddandEvenTransactions.sql)
 - [3055.TopPercentileFraud](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3055.TopPercentileFraud.sql)
 - [3056.SnapsAnalysis](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3056.SnapsAnalysis.sql)
+- [534.GamePlayAnalysisIII](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/534.GamePlayAnalysisIII.sql)
+- [550.GamePlayAnalysisIV](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/550.GamePlayAnalysisIV.sql)
+- [570.ManagerswithatLeast5DirectReports](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/570.ManagerswithatLeast5DirectReports.sql)
+- [574.WinningCandidate](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/574.WinningCandidate.sql)
 </details>
 
 
