@@ -251,6 +251,13 @@
 - [550.GamePlayAnalysisIV](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/550.GamePlayAnalysisIV.sql)
 - [570.ManagerswithatLeast5DirectReports](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/570.ManagerswithatLeast5DirectReports.sql)
 - [574.WinningCandidate](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/574.WinningCandidate.sql)
+- [578.GetHighestAnswerRateQuestion](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/578.GetHighestAnswerRateQuestion.sql)
+- [580.CountStudentNumberinDepartments](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/580.CountStudentNumberinDepartments.sql)
+- [602.FriendRequestsIIWhoHastheMostFriends](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/602.FriendRequestsIIWhoHastheMostFriends.sql)
+- [608.TreeNode](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/608.TreeNode.sql)
+- [614.SecondDegreeFollower](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/614.SecondDegreeFollower.sql)
+- [626.ExchangeSeats](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/626.ExchangeSeats.sql)
+- [1045.CustomersWhoBoughtAllProducts](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1045.CustomersWhoBoughtAllProducts.sql)
 </details>
 
 
