@@ -258,6 +258,13 @@
 - [614.SecondDegreeFollower](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/614.SecondDegreeFollower.sql)
 - [626.ExchangeSeats](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/626.ExchangeSeats.sql)
 - [1045.CustomersWhoBoughtAllProducts](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1045.CustomersWhoBoughtAllProducts.sql)
+- [1070.ProductSalesAnalysisIII](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1070.ProductSalesAnalysisIII.sql)
+- [1077.ProjectEmployeesIII](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1077.ProjectEmployeesIII.sql)
+- [1107.NewUsersDailyCount](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1107.NewUsersDailyCount.sql)
+- [1112.HighestGradeForEachStudent](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1112.HighestGradeForEachStudent.sql)
+- [1126.ActiveBusinesses](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1126.ActiveBusinesses.sql)
+- [1132.ReportedPostsII](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1132.ReportedPostsII.sql)
+- [1149.ArticleViewsII](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1149.ArticleViewsII.sql)
 </details>
 
 
