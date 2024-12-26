@@ -148,6 +148,7 @@
 - [1015.SmallestIntegerDivisiblebyK](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/1015.SmallestIntegerDivisiblebyK.py)
 - [400.NthDigit](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/400.NthDigit.py)
 - [869.ReorderedPowerof2](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/869.ReorderedPowerof2.py)
+- [198.HouseRobber](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/198.HouseRobber.py)
 
 </details>
 
@@ -265,6 +266,13 @@
 - [1126.ActiveBusinesses](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1126.ActiveBusinesses.sql)
 - [1132.ReportedPostsII](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1132.ReportedPostsII.sql)
 - [1149.ArticleViewsII](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1149.ArticleViewsII.sql)
+- [1158.MarketAnalysisI](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1158.MarketAnalysisI.sql)
+- [1164.ProductPriceataGivenDate](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1164.ProductPriceataGivenDate.sql)
+- [1174.ImmediateFoodDeliveryII](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1174.ImmediateFoodDeliveryII.sql)
+- [1193.MonthlyTransactionsI](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1193.MonthlyTransactionsI.sql)
+- [1204.LastPersontoFitintheBus](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1204.LastPersontoFitintheBus.sql)
+- [1205.MonthlyTransactionsII](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1205.MonthlyTransactionsII.sql)
+- [1212.TeamScoresinFootballTournament](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1212.TeamScoresinFootballTournament.sql)
 </details>
 
 
