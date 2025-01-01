@@ -273,6 +273,13 @@
 - [1204.LastPersontoFitintheBus](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1204.LastPersontoFitintheBus.sql)
 - [1205.MonthlyTransactionsII](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1205.MonthlyTransactionsII.sql)
 - [1212.TeamScoresinFootballTournament](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1212.TeamScoresinFootballTournament.sql)
+- [1321.RestaurantGrowth](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1321.RestaurantGrowth.sql)
+- [1341.MovieRating](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1341.MovieRating.sql)
+- [1355.ActivityParticipants](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1355.ActivityParticipants.sql)
+- [1364.NumberofTrustedContactsofaCustomer](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1364.NumberofTrustedContactsofaCustomer.sql)
+- [1398.CustomersWhoBoughtProductsAandBbutNotC](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1398.CustomersWhoBoughtProductsAandBbutNotC.sql)
+- [1454.ActiveUsers](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1454.ActiveUsers.sql)
+- [1468.CalculateSalaries](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1468.CalculateSalaries.sql)
 </details>
 
 
