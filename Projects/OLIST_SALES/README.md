@@ -1,4 +1,13 @@
-# Use Cases for SQL Queries and Power BI Dashboards:
+# Project Description
+
+This project focuses on leveraging SQL queries and Power BI dashboards to analyze various aspects of customer behavior, sales performance, and operational metrics. Key use cases include analyzing **customer purchase behavior** across demographics, tracking **sales revenue growth** by product categories, and assessing **order delivery performance** for service quality. It explores **payment method preferences** and categorizes customers based on **lifetime value (CLV)** to identify high-value segments. The project also evaluates **review sentiment analysis** to refine product strategies and optimize **inventory management** for sellers. Advanced analytics includes **cross-sell opportunities**, **geolocation-driven market expansion**, **returns and refunds performance**, and **order value analysis**. Insights into **seasonal sales trends** uncover peak sales periods, while detailed **seller performance metrics** ensure performance tracking and sales growth. Overall, the project integrates data-driven strategies to optimize decision-making across multiple business dimensions.
+
+# Project Target State Architecture
+
+![OList Logical Architecture](https://github.com/vegetariancoder/competitive-programming/blob/main/Projects/OLIST_SALES/DataFlow/OListLogicalArchitecture.jpg)
+
+
+# Solving Business Use Cases :
 
 ## Customer Purchase Behavior Analysis:
 
@@ -72,3 +81,8 @@ Determine which regions have the most significant seasonal variations in sales v
 
 Calculate the average rating of each seller based on the review scores for orders they fulfilled.
 Track each seller's monthly sales growth or decline and identify the top 10 fastest-growing sellers in each region.
+
+
+# End to End Pipeline Execution
+
+![Pipeline](https://github.com/vegetariancoder/competitive-programming/blob/main/Projects/OLIST_SALES/Pipeline/Pipeline.png)
