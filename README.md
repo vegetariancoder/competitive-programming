@@ -63,6 +63,7 @@
 - [3379.TransformedArray](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3379.TransformedArray.py)
 - [3345.SmallestDivisibleDigitProductI](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3345.SmallestDivisibleDigitProductI.py)
 - [3370.SmallestNumberWithAllSetBits](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3370.SmallestNumberWithAllSetBits.py)
+- [3046.SplittheArray](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3046.SplittheArray.py)
 </details>
 
 <details>
@@ -280,6 +281,17 @@
 - [1398.CustomersWhoBoughtProductsAandBbutNotC](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1398.CustomersWhoBoughtProductsAandBbutNotC.sql)
 - [1454.ActiveUsers](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1454.ActiveUsers.sql)
 - [1468.CalculateSalaries](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1468.CalculateSalaries.sql)
+- [1501.CountriesYouCanSafelyInvestIn](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1501.CountriesYouCanSafelyInvestIn.sql)
+- [1532.TheMostRecentThreeOrders](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1532.TheMostRecentThreeOrders.sql)
+- [1549.TheMostRecentOrdersforEachProduct](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1549.TheMostRecentOrdersforEachProduct.sql)
+- [1555.BankAccountSummary](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1555.BankAccountSummary.sql)
+- [1596.TheMostFrequentlyOrderedProductsforEachCustomer](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1596.TheMostFrequentlyOrderedProductsforEachCustomer.sql)
+- [1613.FindtheMissingIDs](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1613.FindtheMissingIDs.sql)
+- [1699.NumberofCallsBetweenTwoPersons](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1699.NumberofCallsBetweenTwoPersons.sql)
+- [1709.BiggestWindowBetweenVisits](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1709.BiggestWindowBetweenVisits.sql)
+- [1715.CountApplesandOranges](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1715.CountApplesandOranges.sql)
+- [1747.LeetflexBannedAccounts](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1747.LeetflexBannedAccounts.sql)
+- [1811.FindInterviewCandidates](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1811.FindInterviewCandidates.sql)
 </details>
 
 
