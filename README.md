@@ -64,6 +64,7 @@
 - [3345.SmallestDivisibleDigitProductI](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3345.SmallestDivisibleDigitProductI.py)
 - [3370.SmallestNumberWithAllSetBits](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3370.SmallestNumberWithAllSetBits.py)
 - [3046.SplittheArray](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3046.SplittheArray.py)
+- [1518.WaterBottles](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1518.WaterBottles.py)
 </details>
 
 <details>
@@ -98,6 +99,8 @@
 - [3274.CheckifTwoChessboardSquaresHavetheSameColor](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3274.CheckifTwoChessboardSquaresHavetheSameColor.py)
 - [3280.ConvertDatetoBinary](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3280.ConvertDatetoBinary.py)
 - [1189.MaximumNumberofBalloons](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1189.MaximumNumberofBalloons.py)
+- [3386.ButtonwithLongestPushTime](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3386.ButtonwithLongestPushTime.py)
+- [3396.MinimumNumberofOperationstoMakeElementsinArrayDistinct](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3396.MinimumNumberofOperationstoMakeElementsinArrayDistinct.py)
 </details>
 
 <details>
@@ -292,6 +295,11 @@
 - [1715.CountApplesandOranges](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1715.CountApplesandOranges.sql)
 - [1747.LeetflexBannedAccounts](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1747.LeetflexBannedAccounts.sql)
 - [1811.FindInterviewCandidates](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1811.FindInterviewCandidates.sql)
+- [1841.LeagueStatistics](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1841.LeagueStatistics.sql)
+- [1843.SuspiciousBankAccounts](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1843.SuspiciousBankAccounts.sql)
+- [1867.OrdersWithMaximumQuantityAboveAverage](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1867.OrdersWithMaximumQuantityAboveAverage.sql)
+- [1875.GroupEmployeesoftheSameSalary](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1875.GroupEmployeesoftheSameSalary.sql)
+- [1907.CountSalaryCategories](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1907.CountSalaryCategories.sql)
 </details>
 
 
