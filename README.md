@@ -300,6 +300,13 @@
 - [1867.OrdersWithMaximumQuantityAboveAverage](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1867.OrdersWithMaximumQuantityAboveAverage.sql)
 - [1875.GroupEmployeesoftheSameSalary](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1875.GroupEmployeesoftheSameSalary.sql)
 - [1907.CountSalaryCategories](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1907.CountSalaryCategories.sql)
+- [1934.ConfirmationRate](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1934.ConfirmationRate.sql)
+- [1949.StrongFriendship](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1949.StrongFriendship.sql)
+- [1988.FindCutoffScoreforEachSchool](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1988.FindCutoffScoreforEachSchool.sql)
+- [1990.CounttheNumberofExperiments](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/1990.CounttheNumberofExperiments.sql)
+- [2020.NumberofAccountsThatDidNotStream](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2020.NumberofAccountsThatDidNotStream.sql)
+- [2041.AcceptedCandidatesFromtheInterviews](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2041.AcceptedCandidatesFromtheInterviews.sql)
+- [3421.FindStudentsWhoImproved](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3421.FindStudentsWhoImproved.sql)
 </details>
 
 
