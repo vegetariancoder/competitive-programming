@@ -307,6 +307,11 @@
 - [2020.NumberofAccountsThatDidNotStream](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2020.NumberofAccountsThatDidNotStream.sql)
 - [2041.AcceptedCandidatesFromtheInterviews](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2041.AcceptedCandidatesFromtheInterviews.sql)
 - [3421.FindStudentsWhoImproved](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3421.FindStudentsWhoImproved.sql)
+- [2051.TheCategoryofEachMemberintheStore](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2051.TheCategoryofEachMemberintheStore.sql)
+- [2112.TheAirportWiththeMostTraffic](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2112.TheAirportWiththeMostTraffic.sql)
+- [2142.TheNumberofPassengersinEachBusI](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2142.TheNumberofPassengersinEachBusI.sql)
+- [2159.OrderTwoColumnsIndependently](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2159.OrderTwoColumnsIndependently.sql)
+- [2175.TheChangeinGlobalRankings](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2175.TheChangeinGlobalRankings.sql)
 </details>
 
 
