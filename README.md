@@ -65,6 +65,10 @@
 - [3370.SmallestNumberWithAllSetBits](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3370.SmallestNumberWithAllSetBits.py)
 - [3046.SplittheArray](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3046.SplittheArray.py)
 - [1518.WaterBottles](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/1518.WaterBottles.py)
+- [3427.SumofVariableLengthSubarrays](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3427.SumofVariableLengthSubarrays.py)
+- [3442.MaximumDifferenceBetweenEvenandOddFrequencyI](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3442.MaximumDifferenceBetweenEvenandOddFrequencyI.py)
+- [3452.SumofGoodNumbers](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3452.SumofGoodNumbers.py)
+- [3483.Unique3-DigitEvenNumbers](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3483.Unique3-DigitEvenNumbers.py)
 </details>
 
 <details>
@@ -312,6 +316,18 @@
 - [2142.TheNumberofPassengersinEachBusI](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2142.TheNumberofPassengersinEachBusI.sql)
 - [2159.OrderTwoColumnsIndependently](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2159.OrderTwoColumnsIndependently.sql)
 - [2175.TheChangeinGlobalRankings](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2175.TheChangeinGlobalRankings.sql)
+- [2228.UsersWithTwoPurchasesWithinSevenDays](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2228.UsersWithTwoPurchasesWithinSevenDays.sql)
+- [2238.NumberofTimesaDriverWasaPassenger](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2238.NumberofTimesaDriverWasaPassenger.sql)
+- [2292.ProductsWithThreeorMoreOrdersinTwoConsecutiveYears](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2292.ProductsWithThreeorMoreOrdersinTwoConsecutiveYears.sql)
+- [2298.TasksCountintheWeekend](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2298.TasksCountintheWeekend.sql)
+- [2308.ArrangeTablebyGender](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2308.ArrangeTablebyGender.sql)
+- [2314.TheFirstDayoftheMaximumRecordedDegreeinEachCity](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2314.TheFirstDayoftheMaximumRecordedDegreeinEachCity.sql)
+- [2324.ProductSalesAnalysisIV](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2324.ProductSalesAnalysisIV.sql)
+- [2346.ComputetheRankasaPercentage](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2346.ComputetheRankasaPercentage.sql)
+- [2388.ChangeNullValuesinaTabletothePreviousValue](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2388.ChangeNullValuesinaTabletothePreviousValue.sql)
+- [2394.EmployeesWithDeductions](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2394.EmployeesWithDeductions.sql)
+- [2686.ImmediateFoodDeliveryIII](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2686.ImmediateFoodDeliveryIII.sql)
+- [2688.FindActiveUsers](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2688.FindActiveUsers.sql)
 </details>
 
 
