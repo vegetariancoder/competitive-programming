@@ -328,6 +328,20 @@
 - [2394.EmployeesWithDeductions](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2394.EmployeesWithDeductions.sql)
 - [2686.ImmediateFoodDeliveryIII](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2686.ImmediateFoodDeliveryIII.sql)
 - [2688.FindActiveUsers](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2688.FindActiveUsers.sql)
+- [2738.CountOccurrencesinText](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2738.CountOccurrencesinText.sql)
+- [2783.FlightOccupancyandWaitlistAnalysis](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2783.FlightOccupancyandWaitlistAnalysis.sql)
+- [2854.RollingAverageSteps](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2854.RollingAverageSteps.sql)
+- [2893.CalculateOrdersWithinEachIntervals](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2893.CalculateOrdersWithinEachIntervals.sql)
+- [2922.MarketAnalysisIII](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2922.MarketAnalysisIII.sql)
+- [2978.SymmetricCoordinates](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2978.SymmetricCoordinates.sql)
+- [2984.FindPeakCallingHoursforEachCity](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2984.FindPeakCallingHoursforEachCity.sql)
+- [2986.FindThirdTransactions](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2986.FindThirdTransactions.sql)
+- [2988.ManageroftheLargestDepartment](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2988.ManageroftheLargestDepartment.sql)
+- [2993.FridayPurchasesI](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/2993.FridayPurchasesI.sql)
+- [3050.PizzaToppingsCostAnalysis](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3050.PizzaToppingsCostAnalysis.sql)
+- [3054.BinaryTreeNodes](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3054.BinaryTreeNodes.sql)
+- [3058.FriendsWithNoMutualFriends](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3058.FriendsWithNoMutualFriends.sql)
+- [3087.FindTrendingHashtags](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3087.FindTrendingHashtags.sql)
 </details>
 
 
