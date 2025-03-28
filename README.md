@@ -342,6 +342,9 @@
 - [3054.BinaryTreeNodes](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3054.BinaryTreeNodes.sql)
 - [3058.FriendsWithNoMutualFriends](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3058.FriendsWithNoMutualFriends.sql)
 - [3087.FindTrendingHashtags](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3087.FindTrendingHashtags.sql)
+- [3118.FridayPurchaseIII](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3118.FridayPurchaseIII.sql)
+- [3140.ConsecutiveAvailableSeatsII](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3140.ConsecutiveAvailableSeatsII.sql)
+- [3230.CustomerPurchasingBehaviorAnalysis](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/medium-questions/3230.CustomerPurchasingBehaviorAnalysis.sql)
 </details>
 
 
