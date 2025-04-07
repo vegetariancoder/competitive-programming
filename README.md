@@ -355,6 +355,13 @@
 - [2720.PopularityPercentage](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/hard-questions/2720.PopularityPercentage.sql)
 - [3057.EmployeesProjectAllocation](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/hard-questions/3057.EmployeesProjectAllocation.sql)
 - [3156.EmployeeTaskDurationandConcurrentTasks](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/hard-questions/3156.EmployeeTaskDurationandConcurrentTasks.sql)
+- [185.DepartmentTopThreeSalaries](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/hard-questions/185.DepartmentTopThreeSalaries.sql)
+- [262.TripsandUsers](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/hard-questions/262.TripsandUsers.sql)
+- [601.HumanTrafficofStadium](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/hard-questions/601.HumanTrafficofStadium.sql)
+- [615.AverageSalaryDepartmentsVSCompany](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/hard-questions/615.AverageSalaryDepartmentsVSCompany.sql)
+- [618.StudentsReportByGeography](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/hard-questions/618.StudentsReportByGeography.sql)
+- [1097.GamePlayAnalysisV](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/hard-questions/1097.GamePlayAnalysisV.sql)
+- [1127.UserPurchasePlatform](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/hard-questions/1127.UserPurchasePlatform.sql)
 </details>
 
 
