@@ -69,6 +69,9 @@
 - [3442.MaximumDifferenceBetweenEvenandOddFrequencyI](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3442.MaximumDifferenceBetweenEvenandOddFrequencyI.py)
 - [3452.SumofGoodNumbers](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3452.SumofGoodNumbers.py)
 - [3483.Unique3-DigitEvenNumbers](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3483.Unique3-DigitEvenNumbers.py)
+- [2996.SmallestMissingIntegerGreaterThanSequentialPrefixSum](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/2996.SmallestMissingIntegerGreaterThanSequentialPrefixSum.py)
+- [3498.ReverseDegreeofaString](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3498.ReverseDegreeofaString.py)
+- [3512.MinimumOperationstoMakeArraySumDivisiblebyK](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/easy-question/3512.MinimumOperationstoMakeArraySumDivisiblebyK.py)
 </details>
 
 <details>
@@ -362,6 +365,12 @@
 - [618.StudentsReportByGeography](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/hard-questions/618.StudentsReportByGeography.sql)
 - [1097.GamePlayAnalysisV](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/hard-questions/1097.GamePlayAnalysisV.sql)
 - [1127.UserPurchasePlatform](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/hard-questions/1127.UserPurchasePlatform.sql)
+- [1159.MarketAnalysisII](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/hard-questions/1159.MarketAnalysisII.sql)
+- [1194.TournamentWinners](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/hard-questions/1194.TournamentWinners.sql)
+- [1225.ReportContiguousDates](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/hard-questions/1225.ReportContiguousDates.sql)
+- [1369.GettheSecondMostRecentActivity](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/hard-questions/1369.GettheSecondMostRecentActivity.sql)
+- [1412.FindtheQuietStudentsinAllExams](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/hard-questions/1412.FindtheQuietStudentsinAllExams.sql)
+- [1479.SalesbyDayoftheWeek](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/hard-questions/1479.SalesbyDayoftheWeek.sql)
 </details>
 
 
