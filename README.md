@@ -160,6 +160,7 @@
 - [400.NthDigit](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/400.NthDigit.py)
 - [869.ReorderedPowerof2](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/869.ReorderedPowerof2.py)
 - [198.HouseRobber](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/198.HouseRobber.py)
+- [1362.ClosestDivisors](https://github.com/vegetariancoder/competitive-programming/blob/main/python/leetcode/medium-question/1362.ClosestDivisors.py)
 
 </details>
 
