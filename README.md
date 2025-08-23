@@ -372,6 +372,7 @@
 - [1369.GettheSecondMostRecentActivity](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/hard-questions/1369.GettheSecondMostRecentActivity.sql)
 - [1412.FindtheQuietStudentsinAllExams](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/hard-questions/1412.FindtheQuietStudentsinAllExams.sql)
 - [1479.SalesbyDayoftheWeek](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/hard-questions/1479.SalesbyDayoftheWeek.sql)
+- [3188.FindTopScoringStudentsII](https://github.com/vegetariancoder/competitive-programming/blob/main/sql/leetcode/hard-questions/3188.FindTopScoringStudentsII.sql)
 </details>
 
 
